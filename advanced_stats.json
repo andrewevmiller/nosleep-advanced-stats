@@ -1,8 +1,8 @@
 {
   "source": "nflverse (nfl_data_py)",
-  "as_of": "2026-09-15T17:30:25Z",
+  "as_of": "2026-09-22T17:32:47Z",
   "season": 2026,
-  "through_week": 1,
+  "through_week": 2,
   "players": [
     {
       "gsis_id": "00-0023459",
@@ -14,8 +14,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 1.0,
-      "recent_snap_share": 1.0
+      "season_snap_share": 0.98,
+      "recent_snap_share": 0.98
     },
     {
       "gsis_id": "00-0026498",
@@ -27,8 +27,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.84,
-      "recent_snap_share": 0.84
+      "season_snap_share": 0.92,
+      "recent_snap_share": 0.92
     },
     {
       "gsis_id": "00-0029604",
@@ -44,17 +44,30 @@
       "recent_snap_share": 1.0
     },
     {
+      "gsis_id": "00-0029892",
+      "sleeper_id": "1379",
+      "name": "Kyle Juszczyk",
+      "position": "FB",
+      "team": "SF",
+      "season_target_share": 0.0952,
+      "recent_target_share": 0.0952,
+      "season_air_yards_share": 0.105,
+      "recent_air_yards_share": 0.105,
+      "season_snap_share": 0.44,
+      "recent_snap_share": 0.44
+    },
+    {
       "gsis_id": "00-0030279",
       "sleeper_id": "1479",
       "name": "Keenan Allen",
       "position": "WR",
       "team": "IND",
-      "season_target_share": 0.2069,
-      "recent_target_share": 0.2069,
-      "season_air_yards_share": 0.1164,
-      "recent_air_yards_share": 0.1164,
-      "season_snap_share": 0.67,
-      "recent_snap_share": 0.67
+      "season_target_share": 0.1868,
+      "recent_target_share": 0.1868,
+      "season_air_yards_share": 0.1563,
+      "recent_air_yards_share": 0.1563,
+      "season_snap_share": 0.59,
+      "recent_snap_share": 0.59
     },
     {
       "gsis_id": "00-0030506",
@@ -62,12 +75,12 @@
       "name": "Travis Kelce",
       "position": "TE",
       "team": "KC",
-      "season_target_share": 0.2,
-      "recent_target_share": 0.2,
-      "season_air_yards_share": 0.2479,
-      "recent_air_yards_share": 0.2479,
-      "season_snap_share": 0.71,
-      "recent_snap_share": 0.71
+      "season_target_share": 0.2279,
+      "recent_target_share": 0.2279,
+      "season_air_yards_share": 0.2373,
+      "recent_air_yards_share": 0.2373,
+      "season_snap_share": 0.78,
+      "recent_snap_share": 0.78
     },
     {
       "gsis_id": "00-0030565",
@@ -88,12 +101,12 @@
       "name": "Davante Adams",
       "position": "WR",
       "team": "LA",
-      "season_target_share": 0.2222,
-      "recent_target_share": 0.2222,
-      "season_air_yards_share": 0.2819,
-      "recent_air_yards_share": 0.2819,
-      "season_snap_share": 0.54,
-      "recent_snap_share": 0.54
+      "season_target_share": 0.2778,
+      "recent_target_share": 0.2778,
+      "season_air_yards_share": 0.44,
+      "recent_air_yards_share": 0.44,
+      "season_snap_share": 0.595,
+      "recent_snap_share": 0.595
     },
     {
       "gsis_id": "00-0031408",
@@ -101,12 +114,25 @@
       "name": "Mike Evans",
       "position": "WR",
       "team": "SF",
-      "season_target_share": 0.2059,
-      "recent_target_share": 0.2059,
-      "season_air_yards_share": 0.3691,
-      "recent_air_yards_share": 0.3691,
-      "season_snap_share": 0.75,
-      "recent_snap_share": 0.75
+      "season_target_share": 0.1744,
+      "recent_target_share": 0.1744,
+      "season_air_yards_share": 0.2951,
+      "recent_air_yards_share": 0.2951,
+      "season_snap_share": 0.645,
+      "recent_snap_share": 0.645
+    },
+    {
+      "gsis_id": "00-0031503",
+      "sleeper_id": "2306",
+      "name": "Jameis Winston",
+      "position": "QB",
+      "team": "NYG",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.88,
+      "recent_snap_share": 0.88
     },
     {
       "gsis_id": "00-0031588",
@@ -114,12 +140,12 @@
       "name": "Stefon Diggs",
       "position": "WR",
       "team": "WAS",
-      "season_target_share": 0.3103,
-      "recent_target_share": 0.3103,
-      "season_air_yards_share": 0.3242,
-      "recent_air_yards_share": 0.3242,
-      "season_snap_share": 0.63,
-      "recent_snap_share": 0.63
+      "season_target_share": 0.2434,
+      "recent_target_share": 0.2434,
+      "season_air_yards_share": 0.2618,
+      "recent_air_yards_share": 0.2618,
+      "season_snap_share": 0.57,
+      "recent_snap_share": 0.57
     },
     {
       "gsis_id": "00-0031610",
@@ -127,12 +153,12 @@
       "name": "Darren Waller",
       "position": "TE",
       "team": "CAR",
-      "season_target_share": 0.0588,
-      "recent_target_share": 0.0588,
-      "season_air_yards_share": 0.0238,
-      "recent_air_yards_share": 0.0238,
-      "season_snap_share": 0.35,
-      "recent_snap_share": 0.35
+      "season_target_share": 0.0763,
+      "recent_target_share": 0.0763,
+      "season_air_yards_share": 0.0566,
+      "recent_air_yards_share": 0.0566,
+      "season_snap_share": 0.395,
+      "recent_snap_share": 0.395
     },
     {
       "gsis_id": "00-0032104",
@@ -140,12 +166,38 @@
       "name": "Ameer Abdullah",
       "position": "RB",
       "team": "JAX",
-      "season_target_share": 0.0476,
-      "recent_target_share": 0.0476,
-      "season_air_yards_share": -0.0136,
-      "recent_air_yards_share": -0.0136,
-      "season_snap_share": 0.09,
-      "recent_snap_share": 0.09
+      "season_target_share": 0.0417,
+      "recent_target_share": 0.0417,
+      "season_air_yards_share": -0.0172,
+      "recent_air_yards_share": -0.0172,
+      "season_snap_share": 0.095,
+      "recent_snap_share": 0.095
+    },
+    {
+      "gsis_id": "00-0032268",
+      "sleeper_id": "2307",
+      "name": "Marcus Mariota",
+      "position": "QB",
+      "team": "WAS",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.45,
+      "recent_snap_share": 0.45
+    },
+    {
+      "gsis_id": "00-0032392",
+      "sleeper_id": "3202",
+      "name": "Austin Hooper",
+      "position": "TE",
+      "team": "ATL",
+      "season_target_share": 0.129,
+      "recent_target_share": 0.129,
+      "season_air_yards_share": 0.0884,
+      "recent_air_yards_share": 0.0884,
+      "season_snap_share": 0.43,
+      "recent_snap_share": 0.43
     },
     {
       "gsis_id": "00-0032398",
@@ -153,12 +205,12 @@
       "name": "Chris Moore",
       "position": "WR",
       "team": "BAL",
-      "season_target_share": 0.0833,
-      "recent_target_share": 0.0833,
-      "season_air_yards_share": 0.2519,
-      "recent_air_yards_share": 0.2519,
-      "season_snap_share": 0.37,
-      "recent_snap_share": 0.37
+      "season_target_share": 0.0934,
+      "recent_target_share": 0.0934,
+      "season_air_yards_share": 0.2759,
+      "recent_air_yards_share": 0.2759,
+      "season_snap_share": 0.46,
+      "recent_snap_share": 0.46
     },
     {
       "gsis_id": "00-0032464",
@@ -166,12 +218,12 @@
       "name": "Kalif Raymond",
       "position": "WR",
       "team": "CHI",
-      "season_target_share": 0.3462,
-      "recent_target_share": 0.3462,
-      "season_air_yards_share": 0.2305,
-      "recent_air_yards_share": 0.2305,
-      "season_snap_share": 0.6,
-      "recent_snap_share": 0.6
+      "season_target_share": 0.2564,
+      "recent_target_share": 0.2564,
+      "season_air_yards_share": 0.1365,
+      "recent_air_yards_share": 0.1365,
+      "season_snap_share": 0.61,
+      "recent_snap_share": 0.61
     },
     {
       "gsis_id": "00-0032764",
@@ -179,12 +231,12 @@
       "name": "Derrick Henry",
       "position": "RB",
       "team": "BAL",
-      "season_target_share": 0.0417,
-      "recent_target_share": 0.0417,
-      "season_air_yards_share": -0.0037,
-      "recent_air_yards_share": -0.0037,
-      "season_snap_share": 0.54,
-      "recent_snap_share": 0.54
+      "season_target_share": 0.0726,
+      "recent_target_share": 0.0726,
+      "season_air_yards_share": -0.0228,
+      "recent_air_yards_share": -0.0228,
+      "season_snap_share": 0.535,
+      "recent_snap_share": 0.535
     },
     {
       "gsis_id": "00-0032775",
@@ -192,12 +244,12 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "season_target_share": 0.0882,
-      "recent_target_share": 0.0882,
-      "season_air_yards_share": 0.302,
-      "recent_air_yards_share": 0.302,
-      "season_snap_share": 0.63,
-      "recent_snap_share": 0.63
+      "season_target_share": 0.1155,
+      "recent_target_share": 0.1155,
+      "season_air_yards_share": 0.2256,
+      "recent_air_yards_share": 0.2256,
+      "season_snap_share": 0.47,
+      "recent_snap_share": 0.47
     },
     {
       "gsis_id": "00-0032950",
@@ -209,8 +261,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.83,
-      "recent_snap_share": 0.83
+      "season_snap_share": 0.915,
+      "recent_snap_share": 0.915
     },
     {
       "gsis_id": "00-0032951",
@@ -218,12 +270,12 @@
       "name": "Laquon Treadwell",
       "position": "WR",
       "team": "IND",
-      "season_target_share": 0.0345,
-      "recent_target_share": 0.0345,
-      "season_air_yards_share": 0.0212,
-      "recent_air_yards_share": 0.0212,
-      "season_snap_share": 0.35,
-      "recent_snap_share": 0.35
+      "season_target_share": 0.0672,
+      "recent_target_share": 0.0672,
+      "season_air_yards_share": 0.1815,
+      "recent_air_yards_share": 0.1815,
+      "season_snap_share": 0.545,
+      "recent_snap_share": 0.545
     },
     {
       "gsis_id": "00-0033077",
@@ -244,12 +296,12 @@
       "name": "Hunter Henry",
       "position": "TE",
       "team": "NE",
-      "season_target_share": 0.0968,
-      "recent_target_share": 0.0968,
-      "season_air_yards_share": 0.0585,
-      "recent_air_yards_share": 0.0585,
-      "season_snap_share": 0.76,
-      "recent_snap_share": 0.76
+      "season_target_share": 0.1674,
+      "recent_target_share": 0.1674,
+      "season_air_yards_share": 0.1769,
+      "recent_air_yards_share": 0.1769,
+      "season_snap_share": 0.835,
+      "recent_snap_share": 0.835
     },
     {
       "gsis_id": "00-0033106",
@@ -291,17 +343,30 @@
       "recent_snap_share": 1.0
     },
     {
+      "gsis_id": "00-0033246",
+      "sleeper_id": "4314",
+      "name": "Johnny Mundt",
+      "position": "TE",
+      "team": "PHI",
+      "season_target_share": 0.0882,
+      "recent_target_share": 0.0882,
+      "season_air_yards_share": 0.0264,
+      "recent_air_yards_share": 0.0264,
+      "season_snap_share": 0.64,
+      "recent_snap_share": 0.64
+    },
+    {
       "gsis_id": "00-0033280",
       "sleeper_id": "4034",
       "name": "Christian McCaffrey",
       "position": "RB",
       "team": "SF",
-      "season_target_share": 0.2353,
-      "recent_target_share": 0.2353,
-      "season_air_yards_share": -0.0201,
-      "recent_air_yards_share": -0.0201,
-      "season_snap_share": 0.55,
-      "recent_snap_share": 0.55
+      "season_target_share": 0.2129,
+      "recent_target_share": 0.2129,
+      "season_air_yards_share": 0.0203,
+      "recent_air_yards_share": 0.0203,
+      "season_snap_share": 0.535,
+      "recent_snap_share": 0.535
     },
     {
       "gsis_id": "00-0033288",
@@ -309,12 +374,12 @@
       "name": "George Kittle",
       "position": "TE",
       "team": "SF",
-      "season_target_share": 0.1471,
-      "recent_target_share": 0.1471,
-      "season_air_yards_share": 0.255,
-      "recent_air_yards_share": 0.255,
-      "season_snap_share": 0.46,
-      "recent_snap_share": 0.46
+      "season_target_share": 0.1688,
+      "recent_target_share": 0.1688,
+      "season_air_yards_share": 0.2656,
+      "recent_air_yards_share": 0.2656,
+      "season_snap_share": 0.47,
+      "recent_snap_share": 0.47
     },
     {
       "gsis_id": "00-0033293",
@@ -322,12 +387,12 @@
       "name": "Aaron Jones",
       "position": "RB",
       "team": "MIN",
-      "season_target_share": 0.0435,
-      "recent_target_share": 0.0435,
-      "season_air_yards_share": 0.0233,
-      "recent_air_yards_share": 0.0233,
-      "season_snap_share": 0.46,
-      "recent_snap_share": 0.46
+      "season_target_share": 0.0217,
+      "recent_target_share": 0.0217,
+      "season_air_yards_share": 0.0116,
+      "recent_air_yards_share": 0.0116,
+      "season_snap_share": 0.635,
+      "recent_snap_share": 0.635
     },
     {
       "gsis_id": "00-0033307",
@@ -335,12 +400,12 @@
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
-      "season_target_share": 0.2162,
-      "recent_target_share": 0.2162,
-      "season_air_yards_share": 0.1413,
-      "recent_air_yards_share": 0.1413,
-      "season_snap_share": 0.67,
-      "recent_snap_share": 0.67
+      "season_target_share": 0.1658,
+      "recent_target_share": 0.1658,
+      "season_air_yards_share": 0.1228,
+      "recent_air_yards_share": 0.1228,
+      "season_snap_share": 0.635,
+      "recent_snap_share": 0.635
     },
     {
       "gsis_id": "00-0033319",
@@ -374,12 +439,12 @@
       "name": "Samaje Perine",
       "position": "RB",
       "team": "CIN",
-      "season_target_share": 0.0882,
-      "recent_target_share": 0.0882,
-      "season_air_yards_share": 0.0133,
-      "recent_air_yards_share": 0.0133,
-      "season_snap_share": 0.28,
-      "recent_snap_share": 0.28
+      "season_target_share": 0.0602,
+      "recent_target_share": 0.0602,
+      "season_air_yards_share": 0.0269,
+      "recent_air_yards_share": 0.0269,
+      "season_snap_share": 0.34,
+      "recent_snap_share": 0.34
     },
     {
       "gsis_id": "00-0033537",
@@ -400,12 +465,12 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "season_target_share": 0.1613,
-      "recent_target_share": 0.1613,
-      "season_air_yards_share": 0.3024,
-      "recent_air_yards_share": 0.3024,
-      "season_snap_share": 0.7,
-      "recent_snap_share": 0.7
+      "season_target_share": 0.1283,
+      "recent_target_share": 0.1283,
+      "season_air_yards_share": 0.1823,
+      "recent_air_yards_share": 0.1823,
+      "season_snap_share": 0.705,
+      "recent_snap_share": 0.705
     },
     {
       "gsis_id": "00-0033576",
@@ -413,12 +478,12 @@
       "name": "Eric Saubert",
       "position": "TE",
       "team": "SEA",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.2,
-      "recent_snap_share": 0.2
+      "season_target_share": 0.0192,
+      "recent_target_share": 0.0192,
+      "season_air_yards_share": -0.022,
+      "recent_air_yards_share": -0.022,
+      "season_snap_share": 0.22,
+      "recent_snap_share": 0.22
     },
     {
       "gsis_id": "00-0033662",
@@ -430,8 +495,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 1.0,
-      "recent_snap_share": 1.0
+      "season_snap_share": 0.79,
+      "recent_snap_share": 0.79
     },
     {
       "gsis_id": "00-0033858",
@@ -465,12 +530,12 @@
       "name": "Evan Engram",
       "position": "TE",
       "team": "DEN",
-      "season_target_share": 0.1852,
-      "recent_target_share": 0.1852,
-      "season_air_yards_share": 0.1731,
-      "recent_air_yards_share": 0.1731,
-      "season_snap_share": 0.63,
-      "recent_snap_share": 0.63
+      "season_target_share": 0.1098,
+      "recent_target_share": 0.1098,
+      "season_air_yards_share": 0.118,
+      "recent_air_yards_share": 0.118,
+      "season_snap_share": 0.575,
+      "recent_snap_share": 0.575
     },
     {
       "gsis_id": "00-0033885",
@@ -478,12 +543,25 @@
       "name": "David Njoku",
       "position": "TE",
       "team": "LAC",
-      "season_target_share": 0.1852,
-      "recent_target_share": 0.1852,
-      "season_air_yards_share": 0.1026,
-      "recent_air_yards_share": 0.1026,
-      "season_snap_share": 0.55,
-      "recent_snap_share": 0.55
+      "season_target_share": 0.1503,
+      "recent_target_share": 0.1503,
+      "season_air_yards_share": 0.0992,
+      "recent_air_yards_share": 0.0992,
+      "season_snap_share": 0.355,
+      "recent_snap_share": 0.355
+    },
+    {
+      "gsis_id": "00-0033906",
+      "sleeper_id": "4035",
+      "name": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO",
+      "season_target_share": 0.1875,
+      "recent_target_share": 0.1875,
+      "season_air_yards_share": -0.0312,
+      "recent_air_yards_share": -0.0312,
+      "season_snap_share": 0.29,
+      "recent_snap_share": 0.29
     },
     {
       "gsis_id": "00-0033908",
@@ -491,12 +569,12 @@
       "name": "Cooper Kupp",
       "position": "WR",
       "team": "SEA",
-      "season_target_share": 0.125,
-      "recent_target_share": 0.125,
-      "season_air_yards_share": 0.3182,
-      "recent_air_yards_share": 0.3182,
-      "season_snap_share": 0.78,
-      "recent_snap_share": 0.78
+      "season_target_share": 0.101,
+      "recent_target_share": 0.101,
+      "season_air_yards_share": 0.1899,
+      "recent_air_yards_share": 0.1899,
+      "season_snap_share": 0.605,
+      "recent_snap_share": 0.605
     },
     {
       "gsis_id": "00-0033921",
@@ -504,10 +582,10 @@
       "name": "Chris Godwin Jr.",
       "position": "WR",
       "team": "TB",
-      "season_target_share": 0.1481,
-      "recent_target_share": 0.1481,
-      "season_air_yards_share": 0.0227,
-      "recent_air_yards_share": 0.0227,
+      "season_target_share": 0.1195,
+      "recent_target_share": 0.1195,
+      "season_air_yards_share": 0.0513,
+      "recent_air_yards_share": 0.0513,
       "season_snap_share": 0.86,
       "recent_snap_share": 0.86
     },
@@ -517,12 +595,12 @@
       "name": "Courtland Sutton",
       "position": "WR",
       "team": "DEN",
-      "season_target_share": 0.1852,
-      "recent_target_share": 0.1852,
-      "season_air_yards_share": 0.3846,
-      "recent_air_yards_share": 0.3846,
-      "season_snap_share": 0.76,
-      "recent_snap_share": 0.76
+      "season_target_share": 0.1616,
+      "recent_target_share": 0.1616,
+      "season_air_yards_share": 0.2497,
+      "recent_air_yards_share": 0.2497,
+      "season_snap_share": 0.745,
+      "recent_snap_share": 0.745
     },
     {
       "gsis_id": "00-0034351",
@@ -530,12 +608,25 @@
       "name": "Dallas Goedert",
       "position": "TE",
       "team": "PHI",
-      "season_target_share": 0.2273,
-      "recent_target_share": 0.2273,
-      "season_air_yards_share": 0.2419,
-      "recent_air_yards_share": 0.2419,
-      "season_snap_share": 0.95,
-      "recent_snap_share": 0.95
+      "season_target_share": 0.143,
+      "recent_target_share": 0.143,
+      "season_air_yards_share": 0.1275,
+      "recent_air_yards_share": 0.1275,
+      "season_snap_share": 0.6,
+      "recent_snap_share": 0.6
+    },
+    {
+      "gsis_id": "00-0034365",
+      "sleeper_id": "4995",
+      "name": "Ian Thomas",
+      "position": "TE",
+      "team": "LV",
+      "season_target_share": 0.0345,
+      "recent_target_share": 0.0345,
+      "season_air_yards_share": 0.0035,
+      "recent_air_yards_share": 0.0035,
+      "season_snap_share": 0.49,
+      "recent_snap_share": 0.49
     },
     {
       "gsis_id": "00-0034383",
@@ -543,12 +634,12 @@
       "name": "Dalton Schultz",
       "position": "TE",
       "team": "HOU",
-      "season_target_share": 0.2162,
-      "recent_target_share": 0.2162,
-      "season_air_yards_share": 0.0881,
-      "recent_air_yards_share": 0.0881,
-      "season_snap_share": 0.66,
-      "recent_snap_share": 0.66
+      "season_target_share": 0.2481,
+      "recent_target_share": 0.2481,
+      "season_air_yards_share": 0.1574,
+      "recent_air_yards_share": 0.1574,
+      "season_snap_share": 0.67,
+      "recent_snap_share": 0.67
     },
     {
       "gsis_id": "00-0034419",
@@ -560,8 +651,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.17,
-      "recent_snap_share": 0.17
+      "season_snap_share": 0.13,
+      "recent_snap_share": 0.13
     },
     {
       "gsis_id": "00-0034613",
@@ -582,12 +673,25 @@
       "name": "Mark Andrews",
       "position": "TE",
       "team": "BAL",
-      "season_target_share": 0.25,
-      "recent_target_share": 0.25,
-      "season_air_yards_share": 0.163,
-      "recent_air_yards_share": 0.163,
-      "season_snap_share": 0.72,
-      "recent_snap_share": 0.72
+      "season_target_share": 0.2457,
+      "recent_target_share": 0.2457,
+      "season_air_yards_share": 0.1573,
+      "recent_air_yards_share": 0.1573,
+      "season_snap_share": 0.715,
+      "recent_snap_share": 0.715
+    },
+    {
+      "gsis_id": "00-0034771",
+      "sleeper_id": "4972",
+      "name": "Mason Rudolph",
+      "position": "QB",
+      "team": "PIT",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.04,
+      "recent_snap_share": 0.04
     },
     {
       "gsis_id": "00-0034796",
@@ -608,12 +712,12 @@
       "name": "Durham Smythe",
       "position": "TE",
       "team": "BAL",
-      "season_target_share": 0.0417,
-      "recent_target_share": 0.0417,
-      "season_air_yards_share": 0.0148,
-      "recent_air_yards_share": 0.0148,
-      "season_snap_share": 0.62,
-      "recent_snap_share": 0.62
+      "season_target_share": 0.0381,
+      "recent_target_share": 0.0381,
+      "season_air_yards_share": 0.0026,
+      "recent_air_yards_share": 0.0026,
+      "season_snap_share": 0.585,
+      "recent_snap_share": 0.585
     },
     {
       "gsis_id": "00-0034827",
@@ -621,12 +725,12 @@
       "name": "DJ Moore",
       "position": "WR",
       "team": "BUF",
-      "season_target_share": 0.2857,
-      "recent_target_share": 0.2857,
-      "season_air_yards_share": 0.4401,
-      "recent_air_yards_share": 0.4401,
-      "season_snap_share": 0.76,
-      "recent_snap_share": 0.76
+      "season_target_share": 0.1429,
+      "recent_target_share": 0.1429,
+      "season_air_yards_share": 0.2201,
+      "recent_air_yards_share": 0.2201,
+      "season_snap_share": 0.535,
+      "recent_snap_share": 0.535
     },
     {
       "gsis_id": "00-0034829",
@@ -642,17 +746,30 @@
       "recent_snap_share": 0.33
     },
     {
+      "gsis_id": "00-0034837",
+      "sleeper_id": "4981",
+      "name": "Calvin Ridley",
+      "position": "WR",
+      "team": "TEN",
+      "season_target_share": 0.1176,
+      "recent_target_share": 0.1176,
+      "season_air_yards_share": 0.2389,
+      "recent_air_yards_share": 0.2389,
+      "season_snap_share": 0.62,
+      "recent_snap_share": 0.62
+    },
+    {
       "gsis_id": "00-0034844",
       "sleeper_id": "4866",
       "name": "Saquon Barkley",
       "position": "RB",
       "team": "PHI",
-      "season_target_share": 0.0909,
-      "recent_target_share": 0.0909,
-      "season_air_yards_share": -0.0047,
-      "recent_air_yards_share": -0.0047,
-      "season_snap_share": 0.71,
-      "recent_snap_share": 0.71
+      "season_target_share": 0.0749,
+      "recent_target_share": 0.0749,
+      "season_air_yards_share": 0.0043,
+      "recent_air_yards_share": 0.0043,
+      "season_snap_share": 0.435,
+      "recent_snap_share": 0.435
     },
     {
       "gsis_id": "00-0034854",
@@ -660,12 +777,12 @@
       "name": "KhaDarel Hodge",
       "position": "WR",
       "team": "SF",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.02,
-      "recent_snap_share": 0.02
+      "season_target_share": 0.0238,
+      "recent_target_share": 0.0238,
+      "season_air_yards_share": 0.0414,
+      "recent_air_yards_share": 0.0414,
+      "season_snap_share": 0.2,
+      "recent_snap_share": 0.2
     },
     {
       "gsis_id": "00-0034855",
@@ -707,17 +824,30 @@
       "recent_snap_share": 0.1
     },
     {
+      "gsis_id": "00-0034959",
+      "sleeper_id": "6323",
+      "name": "Andrew Beck",
+      "position": "FB",
+      "team": "NYJ",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.05,
+      "recent_snap_share": 0.05
+    },
+    {
       "gsis_id": "00-0034960",
       "sleeper_id": "5947",
       "name": "Jakobi Meyers",
       "position": "WR",
       "team": "JAX",
-      "season_target_share": 0.0952,
-      "recent_target_share": 0.0952,
-      "season_air_yards_share": 0.1318,
-      "recent_air_yards_share": 0.1318,
-      "season_snap_share": 0.65,
-      "recent_snap_share": 0.65
+      "season_target_share": 0.0655,
+      "recent_target_share": 0.0655,
+      "season_air_yards_share": 0.1021,
+      "recent_air_yards_share": 0.1021,
+      "season_snap_share": 0.775,
+      "recent_snap_share": 0.775
     },
     {
       "gsis_id": "00-0034975",
@@ -725,12 +855,12 @@
       "name": "Justice Hill",
       "position": "RB",
       "team": "BAL",
-      "season_target_share": 0.0417,
-      "recent_target_share": 0.0417,
-      "season_air_yards_share": -0.0037,
-      "recent_air_yards_share": -0.0037,
-      "season_snap_share": 0.46,
-      "recent_snap_share": 0.46
+      "season_target_share": 0.0553,
+      "recent_target_share": 0.0553,
+      "season_air_yards_share": -0.0164,
+      "recent_air_yards_share": -0.0164,
+      "season_snap_share": 0.465,
+      "recent_snap_share": 0.465
     },
     {
       "gsis_id": "00-0034981",
@@ -738,12 +868,12 @@
       "name": "Foster Moreau",
       "position": "TE",
       "team": "HOU",
-      "season_target_share": 0.0541,
-      "recent_target_share": 0.0541,
-      "season_air_yards_share": 0.0237,
-      "recent_air_yards_share": 0.0237,
-      "season_snap_share": 0.44,
-      "recent_snap_share": 0.44
+      "season_target_share": 0.047,
+      "recent_target_share": 0.047,
+      "season_air_yards_share": 0.0271,
+      "recent_air_yards_share": 0.0271,
+      "season_snap_share": 0.365,
+      "recent_snap_share": 0.365
     },
     {
       "gsis_id": "00-0035021",
@@ -768,8 +898,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.38,
-      "recent_snap_share": 0.38
+      "season_snap_share": 0.395,
+      "recent_snap_share": 0.395
     },
     {
       "gsis_id": "00-0035208",
@@ -777,12 +907,12 @@
       "name": "Olamide Zaccheaus",
       "position": "WR",
       "team": "ATL",
-      "season_target_share": 0.0526,
-      "recent_target_share": 0.0526,
-      "season_air_yards_share": 0.0667,
-      "recent_air_yards_share": 0.0667,
-      "season_snap_share": 0.3,
-      "recent_snap_share": 0.3
+      "season_target_share": 0.0747,
+      "recent_target_share": 0.0747,
+      "season_air_yards_share": 0.0571,
+      "recent_air_yards_share": 0.0571,
+      "season_snap_share": 0.365,
+      "recent_snap_share": 0.365
     },
     {
       "gsis_id": "00-0035228",
@@ -803,12 +933,12 @@
       "name": "T.J. Hockenson",
       "position": "TE",
       "team": "MIN",
-      "season_target_share": 0.2174,
-      "recent_target_share": 0.2174,
-      "season_air_yards_share": 0.0988,
-      "recent_air_yards_share": 0.0988,
-      "season_snap_share": 0.66,
-      "recent_snap_share": 0.66
+      "season_target_share": 0.214,
+      "recent_target_share": 0.214,
+      "season_air_yards_share": 0.1482,
+      "recent_air_yards_share": 0.1482,
+      "season_snap_share": 0.675,
+      "recent_snap_share": 0.675
     },
     {
       "gsis_id": "00-0035249",
@@ -816,12 +946,12 @@
       "name": "Josh Oliver",
       "position": "TE",
       "team": "MIN",
-      "season_target_share": 0.1739,
-      "recent_target_share": 0.1739,
-      "season_air_yards_share": 0.0756,
-      "recent_air_yards_share": 0.0756,
-      "season_snap_share": 0.65,
-      "recent_snap_share": 0.65
+      "season_target_share": 0.1133,
+      "recent_target_share": 0.1133,
+      "season_air_yards_share": 0.0532,
+      "recent_air_yards_share": 0.0532,
+      "season_snap_share": 0.625,
+      "recent_snap_share": 0.625
     },
     {
       "gsis_id": "00-0035250",
@@ -829,12 +959,12 @@
       "name": "Devin Singletary",
       "position": "RB",
       "team": "NYG",
-      "season_target_share": 0.1379,
-      "recent_target_share": 0.1379,
-      "season_air_yards_share": -0.0653,
-      "recent_air_yards_share": -0.0653,
-      "season_snap_share": 0.36,
-      "recent_snap_share": 0.36
+      "season_target_share": 0.0846,
+      "recent_target_share": 0.0846,
+      "season_air_yards_share": -0.0341,
+      "recent_air_yards_share": -0.0341,
+      "season_snap_share": 0.31,
+      "recent_snap_share": 0.31
     },
     {
       "gsis_id": "00-0035261",
@@ -842,12 +972,25 @@
       "name": "Tony Pollard",
       "position": "RB",
       "team": "TEN",
-      "season_target_share": 0.0714,
-      "recent_target_share": 0.0714,
-      "season_air_yards_share": 0.1463,
-      "recent_air_yards_share": 0.1463,
-      "season_snap_share": 0.52,
-      "recent_snap_share": 0.52
+      "season_target_share": 0.0651,
+      "recent_target_share": 0.0651,
+      "season_air_yards_share": 0.0422,
+      "recent_air_yards_share": 0.0422,
+      "season_snap_share": 0.535,
+      "recent_snap_share": 0.535
+    },
+    {
+      "gsis_id": "00-0035406",
+      "sleeper_id": "5938",
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "team": "DEN",
+      "season_target_share": 0.0345,
+      "recent_target_share": 0.0345,
+      "season_air_yards_share": 0.0519,
+      "recent_air_yards_share": 0.0519,
+      "season_snap_share": 0.05,
+      "recent_snap_share": 0.05
     },
     {
       "gsis_id": "00-0035500",
@@ -859,8 +1002,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.0,
-      "recent_snap_share": 0.0
+      "season_snap_share": 0.025,
+      "recent_snap_share": 0.025
     },
     {
       "gsis_id": "00-0035544",
@@ -874,6 +1017,19 @@
       "recent_air_yards_share": 0.0,
       "season_snap_share": 0.0,
       "recent_snap_share": 0.0
+    },
+    {
+      "gsis_id": "00-0035594",
+      "sleeper_id": "6012",
+      "name": "Travis Homer",
+      "position": "RB",
+      "team": "PIT",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.03,
+      "recent_snap_share": 0.03
     },
     {
       "gsis_id": "00-0035631",
@@ -894,12 +1050,12 @@
       "name": "DK Metcalf",
       "position": "WR",
       "team": "PIT",
-      "season_target_share": 0.2703,
-      "recent_target_share": 0.2703,
-      "season_air_yards_share": 0.5258,
-      "recent_air_yards_share": 0.5258,
-      "season_snap_share": 0.96,
-      "recent_snap_share": 0.96
+      "season_target_share": 0.2568,
+      "recent_target_share": 0.2568,
+      "season_air_yards_share": 0.421,
+      "recent_air_yards_share": 0.421,
+      "season_snap_share": 0.965,
+      "recent_snap_share": 0.965
     },
     {
       "gsis_id": "00-0035644",
@@ -907,12 +1063,12 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "season_target_share": 0.1538,
-      "recent_target_share": 0.1538,
-      "season_air_yards_share": 0.1032,
-      "recent_air_yards_share": 0.1032,
-      "season_snap_share": 0.41,
-      "recent_snap_share": 0.41
+      "season_target_share": 0.0769,
+      "recent_target_share": 0.0769,
+      "season_air_yards_share": 0.0516,
+      "recent_air_yards_share": 0.0516,
+      "season_snap_share": 0.425,
+      "recent_snap_share": 0.425
     },
     {
       "gsis_id": "00-0035659",
@@ -920,12 +1076,25 @@
       "name": "Terry McLaurin",
       "position": "WR",
       "team": "WAS",
-      "season_target_share": 0.1379,
-      "recent_target_share": 0.1379,
-      "season_air_yards_share": 0.0859,
-      "recent_air_yards_share": 0.0859,
-      "season_snap_share": 0.87,
-      "recent_snap_share": 0.87
+      "season_target_share": 0.2013,
+      "recent_target_share": 0.2013,
+      "season_air_yards_share": 0.2563,
+      "recent_air_yards_share": 0.2563,
+      "season_snap_share": 0.785,
+      "recent_snap_share": 0.785
+    },
+    {
+      "gsis_id": "00-0035662",
+      "sleeper_id": "5848",
+      "name": "Marquise Brown",
+      "position": "WR",
+      "team": "PHI",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.22,
+      "recent_snap_share": 0.22
     },
     {
       "gsis_id": "00-0035676",
@@ -946,12 +1115,12 @@
       "name": "David Montgomery",
       "position": "RB",
       "team": "HOU",
-      "season_target_share": 0.0811,
-      "recent_target_share": 0.0811,
-      "season_air_yards_share": 0.0169,
-      "recent_air_yards_share": 0.0169,
-      "season_snap_share": 0.49,
-      "recent_snap_share": 0.49
+      "season_target_share": 0.0605,
+      "recent_target_share": 0.0605,
+      "season_air_yards_share": 0.0183,
+      "recent_air_yards_share": 0.0183,
+      "season_snap_share": 0.505,
+      "recent_snap_share": 0.505
     },
     {
       "gsis_id": "00-0035689",
@@ -959,12 +1128,12 @@
       "name": "Dawson Knox",
       "position": "TE",
       "team": "BUF",
-      "season_target_share": 0.0357,
-      "recent_target_share": 0.0357,
-      "season_air_yards_share": 0.0056,
-      "recent_air_yards_share": 0.0056,
-      "season_snap_share": 0.67,
-      "recent_snap_share": 0.67
+      "season_target_share": 0.0536,
+      "recent_target_share": 0.0536,
+      "season_air_yards_share": 0.0088,
+      "recent_air_yards_share": 0.0088,
+      "season_snap_share": 0.715,
+      "recent_snap_share": 0.715
     },
     {
       "gsis_id": "00-0035704",
@@ -976,8 +1145,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.9,
-      "recent_snap_share": 0.9
+      "season_snap_share": 0.95,
+      "recent_snap_share": 0.95
     },
     {
       "gsis_id": "00-0035710",
@@ -998,12 +1167,12 @@
       "name": "Deebo Samuel Sr.",
       "position": "WR",
       "team": "SF",
-      "season_target_share": 0.2059,
-      "recent_target_share": 0.2059,
-      "season_air_yards_share": 0.1141,
-      "recent_air_yards_share": 0.1141,
-      "season_snap_share": 0.42,
-      "recent_snap_share": 0.42
+      "season_target_share": 0.1982,
+      "recent_target_share": 0.1982,
+      "season_air_yards_share": 0.1095,
+      "recent_air_yards_share": 0.1095,
+      "season_snap_share": 0.51,
+      "recent_snap_share": 0.51
     },
     {
       "gsis_id": "00-0035891",
@@ -1011,10 +1180,10 @@
       "name": "Cody White",
       "position": "WR",
       "team": "LV",
-      "season_target_share": 0.0345,
-      "recent_target_share": 0.0345,
-      "season_air_yards_share": 0.0133,
-      "recent_air_yards_share": 0.0133,
+      "season_target_share": 0.0517,
+      "recent_target_share": 0.0517,
+      "season_air_yards_share": 0.049,
+      "recent_air_yards_share": 0.049,
       "season_snap_share": null,
       "recent_snap_share": null
     },
@@ -1024,12 +1193,12 @@
       "name": "Juwan Johnson",
       "position": "TE",
       "team": "NO",
-      "season_target_share": 0.1346,
-      "recent_target_share": 0.1346,
-      "season_air_yards_share": 0.1656,
-      "recent_air_yards_share": 0.1656,
-      "season_snap_share": 0.84,
-      "recent_snap_share": 0.84
+      "season_target_share": 0.1298,
+      "recent_target_share": 0.1298,
+      "season_air_yards_share": 0.1114,
+      "recent_air_yards_share": 0.1114,
+      "season_snap_share": 0.685,
+      "recent_snap_share": 0.685
     },
     {
       "gsis_id": "00-0036139",
@@ -1037,12 +1206,12 @@
       "name": "Rico Dowdle",
       "position": "RB",
       "team": "PIT",
-      "season_target_share": 0.1351,
-      "recent_target_share": 0.1351,
+      "season_target_share": 0.0946,
+      "recent_target_share": 0.0946,
       "season_air_yards_share": 0.0103,
       "recent_air_yards_share": 0.0103,
-      "season_snap_share": 0.58,
-      "recent_snap_share": 0.58
+      "season_snap_share": 0.42,
+      "recent_snap_share": 0.42
     },
     {
       "gsis_id": "00-0036158",
@@ -1054,8 +1223,21 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.43,
-      "recent_snap_share": 0.43
+      "season_snap_share": 0.385,
+      "recent_snap_share": 0.385
+    },
+    {
+      "gsis_id": "00-0036187",
+      "sleeper_id": "7204",
+      "name": "Reggie Gilliam",
+      "position": "RB",
+      "team": "NE",
+      "season_target_share": 0.0952,
+      "recent_target_share": 0.0952,
+      "season_air_yards_share": -0.0052,
+      "recent_air_yards_share": -0.0052,
+      "season_snap_share": 0.36,
+      "recent_snap_share": 0.36
     },
     {
       "gsis_id": "00-0036223",
@@ -1063,12 +1245,12 @@
       "name": "Jonathan Taylor",
       "position": "RB",
       "team": "IND",
-      "season_target_share": 0.1379,
-      "recent_target_share": 0.1379,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.89,
-      "recent_snap_share": 0.89
+      "season_target_share": 0.1356,
+      "recent_target_share": 0.1356,
+      "season_air_yards_share": -0.0032,
+      "recent_air_yards_share": -0.0032,
+      "season_snap_share": 0.915,
+      "recent_snap_share": 0.915
     },
     {
       "gsis_id": "00-0036244",
@@ -1076,12 +1258,12 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LA",
-      "season_target_share": 0.0741,
-      "recent_target_share": 0.0741,
-      "season_air_yards_share": 0.0347,
-      "recent_air_yards_share": 0.0347,
-      "season_snap_share": 0.77,
-      "recent_snap_share": 0.77
+      "season_target_share": 0.0704,
+      "recent_target_share": 0.0704,
+      "season_air_yards_share": 0.0128,
+      "recent_air_yards_share": 0.0128,
+      "season_snap_share": 0.74,
+      "recent_snap_share": 0.74
     },
     {
       "gsis_id": "00-0036252",
@@ -1132,8 +1314,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.1,
-      "recent_snap_share": 0.1
+      "season_snap_share": 0.08,
+      "recent_snap_share": 0.08
     },
     {
       "gsis_id": "00-0036275",
@@ -1141,12 +1323,12 @@
       "name": "D'Andre Swift",
       "position": "RB",
       "team": "CHI",
-      "season_target_share": 0.0385,
-      "recent_target_share": 0.0385,
-      "season_air_yards_share": 0.0142,
-      "recent_air_yards_share": 0.0142,
-      "season_snap_share": 0.57,
-      "recent_snap_share": 0.57
+      "season_target_share": 0.1026,
+      "recent_target_share": 0.1026,
+      "season_air_yards_share": -0.0384,
+      "recent_air_yards_share": -0.0384,
+      "season_snap_share": 0.625,
+      "recent_snap_share": 0.625
     },
     {
       "gsis_id": "00-0036290",
@@ -1154,12 +1336,12 @@
       "name": "Cole Kmet",
       "position": "TE",
       "team": "CHI",
-      "season_target_share": 0.1154,
-      "recent_target_share": 0.1154,
-      "season_air_yards_share": 0.1667,
-      "recent_air_yards_share": 0.1667,
-      "season_snap_share": 0.57,
-      "recent_snap_share": 0.57
+      "season_target_share": 0.0744,
+      "recent_target_share": 0.0744,
+      "season_air_yards_share": 0.1106,
+      "recent_air_yards_share": 0.1106,
+      "season_snap_share": 0.63,
+      "recent_snap_share": 0.63
     },
     {
       "gsis_id": "00-0036309",
@@ -1167,12 +1349,12 @@
       "name": "Darnell Mooney",
       "position": "WR",
       "team": "NYG",
-      "season_target_share": 0.069,
-      "recent_target_share": 0.069,
-      "season_air_yards_share": 0.102,
-      "recent_air_yards_share": 0.102,
-      "season_snap_share": 0.57,
-      "recent_snap_share": 0.57
+      "season_target_share": 0.0814,
+      "recent_target_share": 0.0814,
+      "season_air_yards_share": 0.1023,
+      "recent_air_yards_share": 0.1023,
+      "season_snap_share": 0.645,
+      "recent_snap_share": 0.645
     },
     {
       "gsis_id": "00-0036322",
@@ -1180,12 +1362,12 @@
       "name": "Justin Jefferson",
       "position": "WR",
       "team": "MIN",
-      "season_target_share": 0.3913,
-      "recent_target_share": 0.3913,
-      "season_air_yards_share": 0.4651,
-      "recent_air_yards_share": 0.4651,
-      "season_snap_share": 0.92,
-      "recent_snap_share": 0.92
+      "season_target_share": 0.3535,
+      "recent_target_share": 0.3535,
+      "season_air_yards_share": 0.5134,
+      "recent_air_yards_share": 0.5134,
+      "season_snap_share": 0.96,
+      "recent_snap_share": 0.96
     },
     {
       "gsis_id": "00-0036331",
@@ -1219,12 +1401,12 @@
       "name": "CeeDee Lamb",
       "position": "WR",
       "team": "DAL",
-      "season_target_share": 0.2667,
-      "recent_target_share": 0.2667,
-      "season_air_yards_share": 0.3719,
-      "recent_air_yards_share": 0.3719,
-      "season_snap_share": 0.81,
-      "recent_snap_share": 0.81
+      "season_target_share": 0.2785,
+      "recent_target_share": 0.2785,
+      "season_air_yards_share": 0.4646,
+      "recent_air_yards_share": 0.4646,
+      "season_snap_share": 0.78,
+      "recent_snap_share": 0.78
     },
     {
       "gsis_id": "00-0036389",
@@ -1245,12 +1427,12 @@
       "name": "Jerry Jeudy",
       "position": "WR",
       "team": "CLE",
-      "season_target_share": 0.1818,
-      "recent_target_share": 0.1818,
-      "season_air_yards_share": 0.1754,
-      "recent_air_yards_share": 0.1754,
-      "season_snap_share": 0.63,
-      "recent_snap_share": 0.63
+      "season_target_share": 0.1076,
+      "recent_target_share": 0.1076,
+      "season_air_yards_share": 0.134,
+      "recent_air_yards_share": 0.134,
+      "season_snap_share": 0.61,
+      "recent_snap_share": 0.61
     },
     {
       "gsis_id": "00-0036410",
@@ -1258,10 +1440,10 @@
       "name": "Tee Higgins",
       "position": "WR",
       "team": "CIN",
-      "season_target_share": 0.1765,
-      "recent_target_share": 0.1765,
-      "season_air_yards_share": 0.5177,
-      "recent_air_yards_share": 0.5177,
+      "season_target_share": 0.2495,
+      "recent_target_share": 0.2495,
+      "season_air_yards_share": 0.5276,
+      "recent_air_yards_share": 0.5276,
       "season_snap_share": 0.72,
       "recent_snap_share": 0.72
     },
@@ -1284,12 +1466,25 @@
       "name": "DeeJay Dallas",
       "position": "RB",
       "team": "MIN",
-      "season_target_share": 0.0435,
-      "recent_target_share": 0.0435,
-      "season_air_yards_share": 0.0058,
-      "recent_air_yards_share": 0.0058,
-      "season_snap_share": 0.09,
-      "recent_snap_share": 0.09
+      "season_target_share": 0.0481,
+      "recent_target_share": 0.0481,
+      "season_air_yards_share": -0.0094,
+      "recent_air_yards_share": -0.0094,
+      "season_snap_share": 0.12,
+      "recent_snap_share": 0.12
+    },
+    {
+      "gsis_id": "00-0036429",
+      "sleeper_id": "7075",
+      "name": "Charlie Woerner",
+      "position": "TE",
+      "team": "ATL",
+      "season_target_share": 0.0323,
+      "recent_target_share": 0.0323,
+      "season_air_yards_share": 0.0068,
+      "recent_air_yards_share": 0.0068,
+      "season_snap_share": 0.49,
+      "recent_snap_share": 0.49
     },
     {
       "gsis_id": "00-0036442",
@@ -1310,12 +1505,12 @@
       "name": "Chris Blair",
       "position": "WR",
       "team": "ATL",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.17,
-      "recent_snap_share": 0.17
+      "season_target_share": 0.0484,
+      "recent_target_share": 0.0484,
+      "season_air_yards_share": 0.0816,
+      "recent_air_yards_share": 0.0816,
+      "season_snap_share": 0.33,
+      "recent_snap_share": 0.33
     },
     {
       "gsis_id": "00-0036550",
@@ -1323,12 +1518,12 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "season_target_share": 0.0417,
-      "recent_target_share": 0.0417,
-      "season_air_yards_share": 0.0852,
-      "recent_air_yards_share": 0.0852,
-      "season_snap_share": 0.78,
-      "recent_snap_share": 0.78
+      "season_target_share": 0.176,
+      "recent_target_share": 0.176,
+      "season_air_yards_share": 0.2442,
+      "recent_air_yards_share": 0.2442,
+      "season_snap_share": 0.855,
+      "recent_snap_share": 0.855
     },
     {
       "gsis_id": "00-0036554",
@@ -1349,12 +1544,12 @@
       "name": "Chuba Hubbard",
       "position": "RB",
       "team": "CAR",
-      "season_target_share": 0.0882,
-      "recent_target_share": 0.0882,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.71,
-      "recent_snap_share": 0.71
+      "season_target_share": 0.0754,
+      "recent_target_share": 0.0754,
+      "season_air_yards_share": -0.0069,
+      "recent_air_yards_share": -0.0069,
+      "season_snap_share": 0.68,
+      "recent_snap_share": 0.68
     },
     {
       "gsis_id": "00-0036590",
@@ -1362,12 +1557,12 @@
       "name": "Quintin Morris",
       "position": "TE",
       "team": "JAX",
-      "season_target_share": 0.0476,
-      "recent_target_share": 0.0476,
-      "season_air_yards_share": 0.0091,
-      "recent_air_yards_share": 0.0091,
-      "season_snap_share": 0.42,
-      "recent_snap_share": 0.42
+      "season_target_share": 0.0417,
+      "recent_target_share": 0.0417,
+      "season_air_yards_share": 0.0097,
+      "recent_air_yards_share": 0.0097,
+      "season_snap_share": 0.32,
+      "recent_snap_share": 0.32
     },
     {
       "gsis_id": "00-0036613",
@@ -1375,12 +1570,12 @@
       "name": "Jaylen Waddle",
       "position": "WR",
       "team": "DEN",
-      "season_target_share": 0.1111,
-      "recent_target_share": 0.1111,
-      "season_air_yards_share": 0.125,
-      "recent_air_yards_share": 0.125,
-      "season_snap_share": 0.75,
-      "recent_snap_share": 0.75
+      "season_target_share": 0.228,
+      "recent_target_share": 0.228,
+      "season_air_yards_share": 0.3458,
+      "recent_air_yards_share": 0.3458,
+      "season_snap_share": 0.68,
+      "recent_snap_share": 0.68
     },
     {
       "gsis_id": "00-0036626",
@@ -1388,12 +1583,12 @@
       "name": "Dyami Brown",
       "position": "WR",
       "team": "WAS",
-      "season_target_share": 0.069,
-      "recent_target_share": 0.069,
-      "season_air_yards_share": 0.25,
-      "recent_air_yards_share": 0.25,
-      "season_snap_share": 0.53,
-      "recent_snap_share": 0.53
+      "season_target_share": 0.1227,
+      "recent_target_share": 0.1227,
+      "season_air_yards_share": 0.1915,
+      "recent_air_yards_share": 0.1915,
+      "season_snap_share": 0.54,
+      "recent_snap_share": 0.54
     },
     {
       "gsis_id": "00-0036628",
@@ -1414,12 +1609,12 @@
       "name": "Noah Gray",
       "position": "TE",
       "team": "KC",
-      "season_target_share": 0.04,
-      "recent_target_share": 0.04,
-      "season_air_yards_share": 0.0427,
-      "recent_air_yards_share": 0.0427,
-      "season_snap_share": 0.55,
-      "recent_snap_share": 0.55
+      "season_target_share": 0.0316,
+      "recent_target_share": 0.0316,
+      "season_air_yards_share": 0.0436,
+      "recent_air_yards_share": 0.0436,
+      "season_snap_share": 0.525,
+      "recent_snap_share": 0.525
     },
     {
       "gsis_id": "00-0036646",
@@ -1435,17 +1630,30 @@
       "recent_snap_share": 0.08
     },
     {
+      "gsis_id": "00-0036727",
+      "sleeper_id": "8025",
+      "name": "Adam Prentice",
+      "position": "FB",
+      "team": "DEN",
+      "season_target_share": 0.0345,
+      "recent_target_share": 0.0345,
+      "season_air_yards_share": 0.0074,
+      "recent_air_yards_share": 0.0074,
+      "season_snap_share": 0.13,
+      "recent_snap_share": 0.13
+    },
+    {
       "gsis_id": "00-0036754",
       "sleeper_id": "7891",
       "name": "Brock Wright",
       "position": "TE",
       "team": "DET",
-      "season_target_share": 0.0256,
-      "recent_target_share": 0.0256,
-      "season_air_yards_share": 0.0097,
-      "recent_air_yards_share": 0.0097,
-      "season_snap_share": 0.51,
-      "recent_snap_share": 0.51
+      "season_target_share": 0.0128,
+      "recent_target_share": 0.0128,
+      "season_air_yards_share": 0.0048,
+      "recent_air_yards_share": 0.0048,
+      "season_snap_share": 0.385,
+      "recent_snap_share": 0.385
     },
     {
       "gsis_id": "00-0036825",
@@ -1457,8 +1665,34 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.07,
-      "recent_snap_share": 0.07
+      "season_snap_share": 0.065,
+      "recent_snap_share": 0.065
+    },
+    {
+      "gsis_id": "00-0036849",
+      "sleeper_id": "7562",
+      "name": "Tutu Atwell",
+      "position": "WR",
+      "team": "LA",
+      "season_target_share": 0.0667,
+      "recent_target_share": 0.0667,
+      "season_air_yards_share": 0.1752,
+      "recent_air_yards_share": 0.1752,
+      "season_snap_share": 0.18,
+      "recent_snap_share": 0.18
+    },
+    {
+      "gsis_id": "00-0036862",
+      "sleeper_id": "7757",
+      "name": "Ben Skowronek",
+      "position": "WR",
+      "team": "PIT",
+      "season_target_share": 0.027,
+      "recent_target_share": 0.027,
+      "season_air_yards_share": 0.0051,
+      "recent_air_yards_share": 0.0051,
+      "season_snap_share": 0.21,
+      "recent_snap_share": 0.21
     },
     {
       "gsis_id": "00-0036875",
@@ -1466,12 +1700,12 @@
       "name": "Rhamondre Stevenson",
       "position": "RB",
       "team": "NE",
-      "season_target_share": 0.1935,
-      "recent_target_share": 0.1935,
-      "season_air_yards_share": -0.0293,
-      "recent_air_yards_share": -0.0293,
-      "season_snap_share": 0.85,
-      "recent_snap_share": 0.85
+      "season_target_share": 0.1444,
+      "recent_target_share": 0.1444,
+      "season_air_yards_share": -0.0069,
+      "recent_air_yards_share": -0.0069,
+      "season_snap_share": 0.605,
+      "recent_snap_share": 0.605
     },
     {
       "gsis_id": "00-0036887",
@@ -1479,12 +1713,25 @@
       "name": "Luke Farrell",
       "position": "TE",
       "team": "SF",
-      "season_target_share": 0.0588,
-      "recent_target_share": 0.0588,
-      "season_air_yards_share": 0.0201,
-      "recent_air_yards_share": 0.0201,
-      "season_snap_share": 0.71,
-      "recent_snap_share": 0.71
+      "season_target_share": 0.0294,
+      "recent_target_share": 0.0294,
+      "season_air_yards_share": 0.0101,
+      "recent_air_yards_share": 0.0101,
+      "season_snap_share": 0.625,
+      "recent_snap_share": 0.625
+    },
+    {
+      "gsis_id": "00-0036893",
+      "sleeper_id": "7528",
+      "name": "Najee Harris",
+      "position": "RB",
+      "team": "NYG",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.14,
+      "recent_snap_share": 0.14
     },
     {
       "gsis_id": "00-0036894",
@@ -1494,10 +1741,10 @@
       "team": "PIT",
       "season_target_share": 0.1351,
       "recent_target_share": 0.1351,
-      "season_air_yards_share": 0.0541,
-      "recent_air_yards_share": 0.0541,
-      "season_snap_share": 0.73,
-      "recent_snap_share": 0.73
+      "season_air_yards_share": 0.147,
+      "recent_air_yards_share": 0.147,
+      "season_snap_share": 0.695,
+      "recent_snap_share": 0.695
     },
     {
       "gsis_id": "00-0036900",
@@ -1505,12 +1752,12 @@
       "name": "Ja'Marr Chase",
       "position": "WR",
       "team": "CIN",
-      "season_target_share": 0.1176,
-      "recent_target_share": 0.1176,
-      "season_air_yards_share": 0.1504,
-      "recent_air_yards_share": 0.1504,
-      "season_snap_share": 0.94,
-      "recent_snap_share": 0.94
+      "season_target_share": 0.204,
+      "recent_target_share": 0.204,
+      "season_air_yards_share": 0.3093,
+      "recent_air_yards_share": 0.3093,
+      "season_snap_share": 0.91,
+      "recent_snap_share": 0.91
     },
     {
       "gsis_id": "00-0036912",
@@ -1518,12 +1765,12 @@
       "name": "DeVonta Smith",
       "position": "WR",
       "team": "PHI",
-      "season_target_share": 0.2727,
-      "recent_target_share": 0.2727,
-      "season_air_yards_share": 0.3674,
-      "recent_air_yards_share": 0.3674,
-      "season_snap_share": 0.95,
-      "recent_snap_share": 0.95
+      "season_target_share": 0.3275,
+      "recent_target_share": 0.3275,
+      "season_air_yards_share": 0.494,
+      "recent_air_yards_share": 0.494,
+      "season_snap_share": 0.915,
+      "recent_snap_share": 0.915
     },
     {
       "gsis_id": "00-0036919",
@@ -1531,12 +1778,12 @@
       "name": "Kenny Gainwell",
       "position": "RB",
       "team": "TB",
-      "season_target_share": 0.037,
-      "recent_target_share": 0.037,
-      "season_air_yards_share": -0.0379,
-      "recent_air_yards_share": -0.0379,
-      "season_snap_share": 0.46,
-      "recent_snap_share": 0.46
+      "season_target_share": 0.0791,
+      "recent_target_share": 0.0791,
+      "season_air_yards_share": -0.0371,
+      "recent_air_yards_share": -0.0371,
+      "season_snap_share": 0.405,
+      "recent_snap_share": 0.405
     },
     {
       "gsis_id": "00-0036963",
@@ -1544,12 +1791,12 @@
       "name": "Amon-Ra St. Brown",
       "position": "WR",
       "team": "DET",
-      "season_target_share": 0.359,
-      "recent_target_share": 0.359,
-      "season_air_yards_share": 0.3382,
-      "recent_air_yards_share": 0.3382,
-      "season_snap_share": 0.9,
-      "recent_snap_share": 0.9
+      "season_target_share": 0.3505,
+      "recent_target_share": 0.3505,
+      "season_air_yards_share": 0.3887,
+      "recent_air_yards_share": 0.3887,
+      "season_snap_share": 0.925,
+      "recent_snap_share": 0.925
     },
     {
       "gsis_id": "00-0036970",
@@ -1557,12 +1804,12 @@
       "name": "Kyle Pitts",
       "position": "TE",
       "team": "ATL",
-      "season_target_share": 0.0526,
-      "recent_target_share": 0.0526,
-      "season_air_yards_share": 0.3467,
-      "recent_air_yards_share": 0.3467,
-      "season_snap_share": 0.63,
-      "recent_snap_share": 0.63
+      "season_target_share": 0.0747,
+      "recent_target_share": 0.0747,
+      "season_air_yards_share": 0.2618,
+      "recent_air_yards_share": 0.2618,
+      "season_snap_share": 0.505,
+      "recent_snap_share": 0.505
     },
     {
       "gsis_id": "00-0036971",
@@ -1574,8 +1821,21 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.88,
-      "recent_snap_share": 0.88
+      "season_snap_share": 0.94,
+      "recent_snap_share": 0.94
+    },
+    {
+      "gsis_id": "00-0036972",
+      "sleeper_id": "7527",
+      "name": "Mac Jones",
+      "position": "QB",
+      "team": "SF",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.15,
+      "recent_snap_share": 0.15
     },
     {
       "gsis_id": "00-0036973",
@@ -1583,12 +1843,12 @@
       "name": "Travis Etienne",
       "position": "RB",
       "team": "NO",
-      "season_target_share": 0.1731,
-      "recent_target_share": 0.1731,
-      "season_air_yards_share": -0.0043,
-      "recent_air_yards_share": -0.0043,
-      "season_snap_share": 0.59,
-      "recent_snap_share": 0.59
+      "season_target_share": 0.1178,
+      "recent_target_share": 0.1178,
+      "season_air_yards_share": -0.0204,
+      "recent_air_yards_share": -0.0204,
+      "season_snap_share": 0.565,
+      "recent_snap_share": 0.565
     },
     {
       "gsis_id": "00-0036988",
@@ -1596,12 +1856,12 @@
       "name": "Josh Palmer",
       "position": "WR",
       "team": "BUF",
-      "season_target_share": 0.0714,
-      "recent_target_share": 0.0714,
-      "season_air_yards_share": 0.1727,
-      "recent_air_yards_share": 0.1727,
-      "season_snap_share": 0.31,
-      "recent_snap_share": 0.31
+      "season_target_share": 0.0893,
+      "recent_target_share": 0.0893,
+      "season_air_yards_share": 0.165,
+      "recent_air_yards_share": 0.165,
+      "season_snap_share": 0.345,
+      "recent_snap_share": 0.345
     },
     {
       "gsis_id": "00-0036997",
@@ -1609,12 +1869,12 @@
       "name": "Javonte Williams",
       "position": "RB",
       "team": "DAL",
-      "season_target_share": 0.1667,
-      "recent_target_share": 0.1667,
-      "season_air_yards_share": -0.0455,
-      "recent_air_yards_share": -0.0455,
-      "season_snap_share": 0.71,
-      "recent_snap_share": 0.71
+      "season_target_share": 0.1478,
+      "recent_target_share": 0.1478,
+      "season_air_yards_share": -0.0473,
+      "recent_air_yards_share": -0.0473,
+      "season_snap_share": 0.755,
+      "recent_snap_share": 0.755
     },
     {
       "gsis_id": "00-0037004",
@@ -1626,8 +1886,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.35,
-      "recent_snap_share": 0.35
+      "season_snap_share": 0.325,
+      "recent_snap_share": 0.325
     },
     {
       "gsis_id": "00-0037005",
@@ -1635,12 +1895,25 @@
       "name": "Tommy Tremble",
       "position": "TE",
       "team": "CAR",
-      "season_target_share": 0.1471,
-      "recent_target_share": 0.1471,
-      "season_air_yards_share": 0.0685,
-      "recent_air_yards_share": 0.0685,
+      "season_target_share": 0.1048,
+      "recent_target_share": 0.1048,
+      "season_air_yards_share": 0.0669,
+      "recent_air_yards_share": 0.0669,
       "season_snap_share": 0.56,
       "recent_snap_share": 0.56
+    },
+    {
+      "gsis_id": "00-0037085",
+      "sleeper_id": "8208",
+      "name": "Tyler Badie",
+      "position": "RB",
+      "team": "DEN",
+      "season_target_share": 0.1034,
+      "recent_target_share": 0.1034,
+      "season_air_yards_share": -0.0333,
+      "recent_air_yards_share": -0.0333,
+      "season_snap_share": 0.26,
+      "recent_snap_share": 0.26
     },
     {
       "gsis_id": "00-0037091",
@@ -1648,12 +1921,12 @@
       "name": "Bo Melton",
       "position": "WR",
       "team": "GB",
-      "season_target_share": 0.025,
-      "recent_target_share": 0.025,
-      "season_air_yards_share": 0.022,
-      "recent_air_yards_share": 0.022,
-      "season_snap_share": 0.12,
-      "recent_snap_share": 0.12
+      "season_target_share": 0.0297,
+      "recent_target_share": 0.0297,
+      "season_air_yards_share": 0.0295,
+      "recent_air_yards_share": 0.0295,
+      "season_snap_share": 0.135,
+      "recent_snap_share": 0.135
     },
     {
       "gsis_id": "00-0037093",
@@ -1661,12 +1934,12 @@
       "name": "Dareke Young",
       "position": "WR",
       "team": "LV",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.15,
-      "recent_snap_share": 0.15
+      "season_target_share": 0.0172,
+      "recent_target_share": 0.0172,
+      "season_air_yards_share": 0.023,
+      "recent_air_yards_share": 0.023,
+      "season_snap_share": 0.17,
+      "recent_snap_share": 0.17
     },
     {
       "gsis_id": "00-0037132",
@@ -1682,17 +1955,43 @@
       "recent_snap_share": 0.0
     },
     {
+      "gsis_id": "00-0037157",
+      "sleeper_id": "8122",
+      "name": "Bam Knight",
+      "position": "RB",
+      "team": "ARI",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.06,
+      "recent_snap_share": 0.06
+    },
+    {
       "gsis_id": "00-0037228",
       "sleeper_id": "8228",
       "name": "Jaylen Warren",
       "position": "RB",
       "team": "PIT",
-      "season_target_share": 0.1622,
-      "recent_target_share": 0.1622,
-      "season_air_yards_share": -0.0155,
-      "recent_air_yards_share": -0.0155,
-      "season_snap_share": 0.37,
-      "recent_snap_share": 0.37
+      "season_target_share": 0.1351,
+      "recent_target_share": 0.1351,
+      "season_air_yards_share": -0.0358,
+      "recent_air_yards_share": -0.0358,
+      "season_snap_share": 0.54,
+      "recent_snap_share": 0.54
+    },
+    {
+      "gsis_id": "00-0037231",
+      "sleeper_id": "8200",
+      "name": "Kevin Austin Jr.",
+      "position": "WR",
+      "team": "NO",
+      "season_target_share": 0.0312,
+      "recent_target_share": 0.0312,
+      "season_air_yards_share": 0.0312,
+      "recent_air_yards_share": 0.0312,
+      "season_snap_share": 0.07,
+      "recent_snap_share": 0.07
     },
     {
       "gsis_id": "00-0037238",
@@ -1700,12 +1999,12 @@
       "name": "Drake London",
       "position": "WR",
       "team": "ATL",
-      "season_target_share": 0.2105,
-      "recent_target_share": 0.2105,
-      "season_air_yards_share": 0.2933,
-      "recent_air_yards_share": 0.2933,
-      "season_snap_share": 0.98,
-      "recent_snap_share": 0.98
+      "season_target_share": 0.1859,
+      "recent_target_share": 0.1859,
+      "season_air_yards_share": 0.2249,
+      "recent_air_yards_share": 0.2249,
+      "season_snap_share": 0.8,
+      "recent_snap_share": 0.8
     },
     {
       "gsis_id": "00-0037239",
@@ -1713,12 +2012,12 @@
       "name": "Chris Olave",
       "position": "WR",
       "team": "NO",
-      "season_target_share": 0.25,
-      "recent_target_share": 0.25,
-      "season_air_yards_share": 0.5032,
-      "recent_air_yards_share": 0.5032,
-      "season_snap_share": 0.86,
-      "recent_snap_share": 0.86
+      "season_target_share": 0.2812,
+      "recent_target_share": 0.2812,
+      "season_air_yards_share": 0.5224,
+      "recent_air_yards_share": 0.5224,
+      "season_snap_share": 0.85,
+      "recent_snap_share": 0.85
     },
     {
       "gsis_id": "00-0037240",
@@ -1726,12 +2025,12 @@
       "name": "Jameson Williams",
       "position": "WR",
       "team": "DET",
-      "season_target_share": 0.2308,
-      "recent_target_share": 0.2308,
-      "season_air_yards_share": 0.6135,
-      "recent_air_yards_share": 0.6135,
-      "season_snap_share": 0.84,
-      "recent_snap_share": 0.84
+      "season_target_share": 0.168,
+      "recent_target_share": 0.168,
+      "season_air_yards_share": 0.3809,
+      "recent_air_yards_share": 0.3809,
+      "season_snap_share": 0.905,
+      "recent_snap_share": 0.905
     },
     {
       "gsis_id": "00-0037247",
@@ -1739,12 +2038,12 @@
       "name": "George Pickens",
       "position": "WR",
       "team": "DAL",
-      "season_target_share": 0.2,
-      "recent_target_share": 0.2,
-      "season_air_yards_share": 0.4298,
-      "recent_air_yards_share": 0.4298,
-      "season_snap_share": 0.84,
-      "recent_snap_share": 0.84
+      "season_target_share": 0.229,
+      "recent_target_share": 0.229,
+      "season_air_yards_share": 0.385,
+      "recent_air_yards_share": 0.385,
+      "season_snap_share": 0.8,
+      "recent_snap_share": 0.8
     },
     {
       "gsis_id": "00-0037248",
@@ -1752,12 +2051,12 @@
       "name": "James Cook",
       "position": "RB",
       "team": "BUF",
-      "season_target_share": 0.1429,
-      "recent_target_share": 0.1429,
-      "season_air_yards_share": -0.0111,
-      "recent_air_yards_share": -0.0111,
-      "season_snap_share": 0.72,
-      "recent_snap_share": 0.72
+      "season_target_share": 0.125,
+      "recent_target_share": 0.125,
+      "season_air_yards_share": -0.0036,
+      "recent_air_yards_share": -0.0036,
+      "season_snap_share": 0.73,
+      "recent_snap_share": 0.73
     },
     {
       "gsis_id": "00-0037252",
@@ -1765,12 +2064,12 @@
       "name": "Greg Dulcich",
       "position": "TE",
       "team": "MIA",
-      "season_target_share": 0.0741,
-      "recent_target_share": 0.0741,
-      "season_air_yards_share": 0.0032,
-      "recent_air_yards_share": 0.0032,
-      "season_snap_share": 0.77,
-      "recent_snap_share": 0.77
+      "season_target_share": 0.1023,
+      "recent_target_share": 0.1023,
+      "season_air_yards_share": 0.0312,
+      "recent_air_yards_share": 0.0312,
+      "season_snap_share": 0.69,
+      "recent_snap_share": 0.69
     },
     {
       "gsis_id": "00-0037256",
@@ -1778,12 +2077,12 @@
       "name": "Rachaad White",
       "position": "RB",
       "team": "WAS",
-      "season_target_share": 0.069,
-      "recent_target_share": 0.069,
-      "season_air_yards_share": -0.0391,
-      "recent_air_yards_share": -0.0391,
-      "season_snap_share": 0.41,
-      "recent_snap_share": 0.41
+      "season_target_share": 0.1227,
+      "recent_target_share": 0.1227,
+      "season_air_yards_share": -0.0085,
+      "recent_air_yards_share": -0.0085,
+      "season_snap_share": 0.465,
+      "recent_snap_share": 0.465
     },
     {
       "gsis_id": "00-0037261",
@@ -1793,10 +2092,10 @@
       "team": "BUF",
       "season_target_share": 0.2143,
       "recent_target_share": 0.2143,
-      "season_air_yards_share": 0.1086,
-      "recent_air_yards_share": 0.1086,
-      "season_snap_share": 0.53,
-      "recent_snap_share": 0.53
+      "season_air_yards_share": 0.2015,
+      "recent_air_yards_share": 0.2015,
+      "season_snap_share": 0.51,
+      "recent_snap_share": 0.51
     },
     {
       "gsis_id": "00-0037263",
@@ -1804,12 +2103,12 @@
       "name": "Tyler Allgeier",
       "position": "RB",
       "team": "ARI",
-      "season_target_share": 0.0541,
-      "recent_target_share": 0.0541,
-      "season_air_yards_share": -0.0177,
-      "recent_air_yards_share": -0.0177,
-      "season_snap_share": 0.59,
-      "recent_snap_share": 0.59
+      "season_target_share": 0.0655,
+      "recent_target_share": 0.0655,
+      "season_air_yards_share": -0.0245,
+      "recent_air_yards_share": -0.0245,
+      "season_snap_share": 0.615,
+      "recent_snap_share": 0.615
     },
     {
       "gsis_id": "00-0037291",
@@ -1817,10 +2116,10 @@
       "name": "Jalen Nailor",
       "position": "WR",
       "team": "LV",
-      "season_target_share": 0.1724,
-      "recent_target_share": 0.1724,
-      "season_air_yards_share": 0.2832,
-      "recent_air_yards_share": 0.2832,
+      "season_target_share": 0.1379,
+      "recent_target_share": 0.1379,
+      "season_air_yards_share": 0.1893,
+      "recent_air_yards_share": 0.1893,
       "season_snap_share": 0.6,
       "recent_snap_share": 0.6
     },
@@ -1830,12 +2129,12 @@
       "name": "Andrew Ogletree",
       "position": "TE",
       "team": "IND",
-      "season_target_share": 0.0345,
-      "recent_target_share": 0.0345,
-      "season_air_yards_share": 0.0159,
-      "recent_air_yards_share": 0.0159,
-      "season_snap_share": 0.11,
-      "recent_snap_share": 0.11
+      "season_target_share": 0.0339,
+      "recent_target_share": 0.0339,
+      "season_air_yards_share": 0.0206,
+      "recent_air_yards_share": 0.0206,
+      "season_snap_share": 0.2,
+      "recent_snap_share": 0.2
     },
     {
       "gsis_id": "00-0037304",
@@ -1847,8 +2146,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.47,
-      "recent_snap_share": 0.47
+      "season_snap_share": 0.385,
+      "recent_snap_share": 0.385
     },
     {
       "gsis_id": "00-0037317",
@@ -1908,12 +2207,12 @@
       "name": "Rashid Shaheed",
       "position": "WR",
       "team": "SEA",
-      "season_target_share": 0.125,
-      "recent_target_share": 0.125,
-      "season_air_yards_share": 0.1234,
-      "recent_air_yards_share": 0.1234,
-      "season_snap_share": 0.66,
-      "recent_snap_share": 0.66
+      "season_target_share": 0.1779,
+      "recent_target_share": 0.1779,
+      "season_air_yards_share": 0.2093,
+      "recent_air_yards_share": 0.2093,
+      "season_snap_share": 0.61,
+      "recent_snap_share": 0.61
     },
     {
       "gsis_id": "00-0037557",
@@ -1929,17 +2228,43 @@
       "recent_snap_share": 0.13
     },
     {
+      "gsis_id": "00-0037594",
+      "sleeper_id": "8254",
+      "name": "Julius Chestnut",
+      "position": "RB",
+      "team": "TEN",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.0,
+      "recent_snap_share": 0.0
+    },
+    {
+      "gsis_id": "00-0037614",
+      "sleeper_id": "8147",
+      "name": "John Metchie III",
+      "position": "WR",
+      "team": "CAR",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.11,
+      "recent_snap_share": 0.11
+    },
+    {
       "gsis_id": "00-0037664",
       "sleeper_id": "8142",
       "name": "Alec Pierce",
       "position": "WR",
       "team": "IND",
-      "season_target_share": 0.2069,
-      "recent_target_share": 0.2069,
-      "season_air_yards_share": 0.545,
-      "recent_air_yards_share": 0.545,
-      "season_snap_share": 0.59,
-      "recent_snap_share": 0.59
+      "season_target_share": 0.1201,
+      "recent_target_share": 0.1201,
+      "season_air_yards_share": 0.3041,
+      "recent_air_yards_share": 0.3041,
+      "season_snap_share": 0.425,
+      "recent_snap_share": 0.425
     },
     {
       "gsis_id": "00-0037740",
@@ -1947,12 +2272,12 @@
       "name": "Garrett Wilson",
       "position": "WR",
       "team": "NYJ",
-      "season_target_share": 0.3043,
-      "recent_target_share": 0.3043,
-      "season_air_yards_share": 0.4936,
-      "recent_air_yards_share": 0.4936,
-      "season_snap_share": 0.75,
-      "recent_snap_share": 0.75
+      "season_target_share": 0.2494,
+      "recent_target_share": 0.2494,
+      "season_air_yards_share": 0.3939,
+      "recent_air_yards_share": 0.3939,
+      "season_snap_share": 0.815,
+      "recent_snap_share": 0.815
     },
     {
       "gsis_id": "00-0037741",
@@ -1960,12 +2285,25 @@
       "name": "Jahan Dotson",
       "position": "WR",
       "team": "ATL",
-      "season_target_share": 0.1579,
-      "recent_target_share": 0.1579,
-      "season_air_yards_share": 0.6933,
-      "recent_air_yards_share": 0.6933,
-      "season_snap_share": 0.63,
-      "recent_snap_share": 0.63
+      "season_target_share": 0.1435,
+      "recent_target_share": 0.1435,
+      "season_air_yards_share": 0.5099,
+      "recent_air_yards_share": 0.5099,
+      "season_snap_share": 0.69,
+      "recent_snap_share": 0.69
+    },
+    {
+      "gsis_id": "00-0037742",
+      "sleeper_id": "8135",
+      "name": "Treylon Burks",
+      "position": "WR",
+      "team": "WAS",
+      "season_target_share": 0.0294,
+      "recent_target_share": 0.0294,
+      "season_air_yards_share": 0.1551,
+      "recent_air_yards_share": 0.1551,
+      "season_snap_share": 0.3,
+      "recent_snap_share": 0.3
     },
     {
       "gsis_id": "00-0037744",
@@ -1973,12 +2311,12 @@
       "name": "Trey McBride",
       "position": "TE",
       "team": "ARI",
-      "season_target_share": 0.3514,
-      "recent_target_share": 0.3514,
-      "season_air_yards_share": 0.3145,
-      "recent_air_yards_share": 0.3145,
-      "season_snap_share": 0.8,
-      "recent_snap_share": 0.8
+      "season_target_share": 0.368,
+      "recent_target_share": 0.368,
+      "season_air_yards_share": 0.3447,
+      "recent_air_yards_share": 0.3447,
+      "season_snap_share": 0.84,
+      "recent_snap_share": 0.84
     },
     {
       "gsis_id": "00-0037746",
@@ -1986,12 +2324,12 @@
       "name": "Brian Robinson",
       "position": "RB",
       "team": "ATL",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
+      "season_target_share": 0.0323,
+      "recent_target_share": 0.0323,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.25,
-      "recent_snap_share": 0.25
+      "season_snap_share": 0.365,
+      "recent_snap_share": 0.365
     },
     {
       "gsis_id": "00-0037801",
@@ -1999,12 +2337,12 @@
       "name": "KaVontae Turpin",
       "position": "WR",
       "team": "DAL",
-      "season_target_share": 0.0333,
-      "recent_target_share": 0.0333,
-      "season_air_yards_share": 0.0041,
-      "recent_air_yards_share": 0.0041,
-      "season_snap_share": 0.14,
-      "recent_snap_share": 0.14
+      "season_target_share": 0.0167,
+      "recent_target_share": 0.0167,
+      "season_air_yards_share": 0.0021,
+      "recent_air_yards_share": 0.0021,
+      "season_snap_share": 0.115,
+      "recent_snap_share": 0.115
     },
     {
       "gsis_id": "00-0037805",
@@ -2012,12 +2350,12 @@
       "name": "Jeremy Ruckert",
       "position": "TE",
       "team": "NYJ",
-      "season_target_share": 0.0435,
-      "recent_target_share": 0.0435,
-      "season_air_yards_share": 0.0064,
-      "recent_air_yards_share": 0.0064,
-      "season_snap_share": 0.43,
-      "recent_snap_share": 0.43
+      "season_target_share": 0.0495,
+      "recent_target_share": 0.0495,
+      "season_air_yards_share": -0.0164,
+      "recent_air_yards_share": -0.0164,
+      "season_snap_share": 0.385,
+      "recent_snap_share": 0.385
     },
     {
       "gsis_id": "00-0037809",
@@ -2038,12 +2376,12 @@
       "name": "Romeo Doubs",
       "position": "WR",
       "team": "NE",
-      "season_target_share": 0.0968,
-      "recent_target_share": 0.0968,
-      "season_air_yards_share": 0.3659,
-      "recent_air_yards_share": 0.3659,
-      "season_snap_share": 0.56,
-      "recent_snap_share": 0.56
+      "season_target_share": 0.1436,
+      "recent_target_share": 0.1436,
+      "season_air_yards_share": 0.3798,
+      "recent_air_yards_share": 0.3798,
+      "season_snap_share": 0.615,
+      "recent_snap_share": 0.615
     },
     {
       "gsis_id": "00-0037834",
@@ -2055,8 +2393,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 1.0,
-      "recent_snap_share": 1.0
+      "season_snap_share": 0.925,
+      "recent_snap_share": 0.925
     },
     {
       "gsis_id": "00-0037838",
@@ -2064,12 +2402,12 @@
       "name": "Isaiah Likely",
       "position": "TE",
       "team": "NYG",
-      "season_target_share": 0.2759,
-      "recent_target_share": 0.2759,
-      "season_air_yards_share": 0.2612,
-      "recent_air_yards_share": 0.2612,
-      "season_snap_share": 0.49,
-      "recent_snap_share": 0.49
+      "season_target_share": 0.2942,
+      "recent_target_share": 0.2942,
+      "season_air_yards_share": 0.201,
+      "recent_air_yards_share": 0.201,
+      "season_snap_share": 0.59,
+      "recent_snap_share": 0.59
     },
     {
       "gsis_id": "00-0037840",
@@ -2077,12 +2415,12 @@
       "name": "Kyren Williams",
       "position": "RB",
       "team": "LA",
-      "season_target_share": 0.1111,
-      "recent_target_share": 0.1111,
-      "season_air_yards_share": 0.027,
-      "recent_air_yards_share": 0.027,
-      "season_snap_share": 0.64,
-      "recent_snap_share": 0.64
+      "season_target_share": 0.0889,
+      "recent_target_share": 0.0889,
+      "season_air_yards_share": 0.0211,
+      "recent_air_yards_share": 0.0211,
+      "season_snap_share": 0.595,
+      "recent_snap_share": 0.595
     },
     {
       "gsis_id": "00-0038041",
@@ -2090,12 +2428,12 @@
       "name": "Jake Ferguson",
       "position": "TE",
       "team": "DAL",
-      "season_target_share": 0.0667,
-      "recent_target_share": 0.0667,
-      "season_air_yards_share": 0.0248,
-      "recent_air_yards_share": 0.0248,
-      "season_snap_share": 0.76,
-      "recent_snap_share": 0.76
+      "season_target_share": 0.0978,
+      "recent_target_share": 0.0978,
+      "season_air_yards_share": 0.0718,
+      "recent_air_yards_share": 0.0718,
+      "season_snap_share": 0.68,
+      "recent_snap_share": 0.68
     },
     {
       "gsis_id": "00-0038046",
@@ -2103,12 +2441,12 @@
       "name": "Charlie Kolar",
       "position": "TE",
       "team": "LAC",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.55,
-      "recent_snap_share": 0.55
+      "season_target_share": 0.0577,
+      "recent_target_share": 0.0577,
+      "season_air_yards_share": 0.0211,
+      "recent_air_yards_share": 0.0211,
+      "season_snap_share": 0.585,
+      "recent_snap_share": 0.585
     },
     {
       "gsis_id": "00-0038090",
@@ -2116,12 +2454,12 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "season_target_share": 0.025,
-      "recent_target_share": 0.025,
-      "season_air_yards_share": 0.0264,
-      "recent_air_yards_share": 0.0264,
-      "season_snap_share": 0.06,
-      "recent_snap_share": 0.06
+      "season_target_share": 0.0642,
+      "recent_target_share": 0.0642,
+      "season_air_yards_share": 0.1128,
+      "recent_air_yards_share": 0.1128,
+      "season_snap_share": 0.21,
+      "recent_snap_share": 0.21
     },
     {
       "gsis_id": "00-0038102",
@@ -2133,8 +2471,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.1,
-      "recent_snap_share": 0.1
+      "season_snap_share": 0.08,
+      "recent_snap_share": 0.08
     },
     {
       "gsis_id": "00-0038104",
@@ -2142,12 +2480,12 @@
       "name": "Tyquan Thornton",
       "position": "WR",
       "team": "KC",
-      "season_target_share": 0.04,
-      "recent_target_share": 0.04,
-      "season_air_yards_share": 0.3077,
-      "recent_air_yards_share": 0.3077,
-      "season_snap_share": 0.68,
-      "recent_snap_share": 0.68
+      "season_target_share": 0.0665,
+      "recent_target_share": 0.0665,
+      "season_air_yards_share": 0.3259,
+      "recent_air_yards_share": 0.3259,
+      "season_snap_share": 0.635,
+      "recent_snap_share": 0.635
     },
     {
       "gsis_id": "00-0038115",
@@ -2155,12 +2493,12 @@
       "name": "Daniel Bellinger",
       "position": "TE",
       "team": "TEN",
-      "season_target_share": 0.0357,
-      "recent_target_share": 0.0357,
-      "season_air_yards_share": 0.0061,
-      "recent_air_yards_share": 0.0061,
-      "season_snap_share": 0.28,
-      "recent_snap_share": 0.28
+      "season_target_share": 0.0473,
+      "recent_target_share": 0.0473,
+      "season_air_yards_share": 0.0207,
+      "recent_air_yards_share": 0.0207,
+      "season_snap_share": 0.365,
+      "recent_snap_share": 0.365
     },
     {
       "gsis_id": "00-0038117",
@@ -2168,12 +2506,12 @@
       "name": "Wan'Dale Robinson",
       "position": "WR",
       "team": "TEN",
-      "season_target_share": 0.2143,
-      "recent_target_share": 0.2143,
-      "season_air_yards_share": 0.1402,
-      "recent_air_yards_share": 0.1402,
-      "season_snap_share": 0.82,
-      "recent_snap_share": 0.82
+      "season_target_share": 0.1366,
+      "recent_target_share": 0.1366,
+      "season_air_yards_share": 0.0967,
+      "recent_air_yards_share": 0.0967,
+      "season_snap_share": 0.675,
+      "recent_snap_share": 0.675
     },
     {
       "gsis_id": "00-0038120",
@@ -2181,12 +2519,12 @@
       "name": "Breece Hall",
       "position": "RB",
       "team": "NYJ",
-      "season_target_share": 0.087,
-      "recent_target_share": 0.087,
-      "season_air_yards_share": 0.0192,
-      "recent_air_yards_share": 0.0192,
-      "season_snap_share": 0.58,
-      "recent_snap_share": 0.58
+      "season_target_share": 0.1129,
+      "recent_target_share": 0.1129,
+      "season_air_yards_share": 0.0077,
+      "recent_air_yards_share": 0.0077,
+      "season_snap_share": 0.615,
+      "recent_snap_share": 0.615
     },
     {
       "gsis_id": "00-0038124",
@@ -2194,12 +2532,12 @@
       "name": "Christian Watson",
       "position": "WR",
       "team": "GB",
-      "season_target_share": 0.2,
-      "recent_target_share": 0.2,
-      "season_air_yards_share": 0.2797,
-      "recent_air_yards_share": 0.2797,
-      "season_snap_share": 0.76,
-      "recent_snap_share": 0.76
+      "season_target_share": 0.2897,
+      "recent_target_share": 0.2897,
+      "season_air_yards_share": 0.3389,
+      "recent_air_yards_share": 0.3389,
+      "season_snap_share": 0.83,
+      "recent_snap_share": 0.83
     },
     {
       "gsis_id": "00-0038128",
@@ -2220,12 +2558,12 @@
       "name": "Cade Otton",
       "position": "TE",
       "team": "TB",
-      "season_target_share": 0.1852,
-      "recent_target_share": 0.1852,
-      "season_air_yards_share": 0.2424,
-      "recent_air_yards_share": 0.2424,
-      "season_snap_share": 0.98,
-      "recent_snap_share": 0.98
+      "season_target_share": 0.1835,
+      "recent_target_share": 0.1835,
+      "season_air_yards_share": 0.1757,
+      "recent_air_yards_share": 0.1757,
+      "season_snap_share": 0.935,
+      "recent_snap_share": 0.935
     },
     {
       "gsis_id": "00-0038134",
@@ -2233,12 +2571,12 @@
       "name": "Kenneth Walker III",
       "position": "RB",
       "team": "KC",
-      "season_target_share": 0.24,
-      "recent_target_share": 0.24,
-      "season_air_yards_share": -0.0171,
-      "recent_air_yards_share": -0.0171,
-      "season_snap_share": 0.68,
-      "recent_snap_share": 0.68
+      "season_target_share": 0.2363,
+      "recent_target_share": 0.2363,
+      "season_air_yards_share": 0.0178,
+      "recent_air_yards_share": 0.0178,
+      "season_snap_share": 0.75,
+      "recent_snap_share": 0.75
     },
     {
       "gsis_id": "00-0038359",
@@ -2246,12 +2584,12 @@
       "name": "Xavier Smith",
       "position": "WR",
       "team": "LA",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
+      "season_target_share": 0.0167,
+      "recent_target_share": 0.0167,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.26,
-      "recent_snap_share": 0.26
+      "season_snap_share": 0.34,
+      "recent_snap_share": 0.34
     },
     {
       "gsis_id": "00-0038393",
@@ -2259,12 +2597,25 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "season_target_share": 0.1818,
-      "recent_target_share": 0.1818,
-      "season_air_yards_share": 0.3674,
-      "recent_air_yards_share": 0.3674,
-      "season_snap_share": 0.91,
-      "recent_snap_share": 0.91
+      "season_target_share": 0.1791,
+      "recent_target_share": 0.1791,
+      "season_air_yards_share": 0.2976,
+      "recent_air_yards_share": 0.2976,
+      "season_snap_share": 0.765,
+      "recent_snap_share": 0.765
+    },
+    {
+      "gsis_id": "00-0038416",
+      "sleeper_id": "11256",
+      "name": "Tyson Bagent",
+      "position": "QB",
+      "team": "CHI",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.14,
+      "recent_snap_share": 0.14
     },
     {
       "gsis_id": "00-0038454",
@@ -2272,12 +2623,12 @@
       "name": "Keaton Mitchell",
       "position": "RB",
       "team": "LAC",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.31,
-      "recent_snap_share": 0.31
+      "season_target_share": 0.0192,
+      "recent_target_share": 0.0192,
+      "season_air_yards_share": 0.0057,
+      "recent_air_yards_share": 0.0057,
+      "season_snap_share": 0.28,
+      "recent_snap_share": 0.28
     },
     {
       "gsis_id": "00-0038488",
@@ -2324,12 +2675,12 @@
       "name": "Bijan Robinson",
       "position": "RB",
       "team": "ATL",
-      "season_target_share": 0.5263,
-      "recent_target_share": 0.5263,
-      "season_air_yards_share": -0.4,
-      "recent_air_yards_share": -0.4,
-      "season_snap_share": 0.77,
-      "recent_snap_share": 0.77
+      "season_target_share": 0.3277,
+      "recent_target_share": 0.3277,
+      "season_air_yards_share": -0.1592,
+      "recent_air_yards_share": -0.1592,
+      "season_snap_share": 0.64,
+      "recent_snap_share": 0.64
     },
     {
       "gsis_id": "00-0038543",
@@ -2337,12 +2688,12 @@
       "name": "Jaxon Smith-Njigba",
       "position": "WR",
       "team": "SEA",
-      "season_target_share": 0.4583,
-      "recent_target_share": 0.4583,
-      "season_air_yards_share": 0.4935,
-      "recent_air_yards_share": 0.4935,
-      "season_snap_share": 0.9,
-      "recent_snap_share": 0.9
+      "season_target_share": 0.4407,
+      "recent_target_share": 0.4407,
+      "season_air_yards_share": 0.5133,
+      "recent_air_yards_share": 0.5133,
+      "season_snap_share": 0.785,
+      "recent_snap_share": 0.785
     },
     {
       "gsis_id": "00-0038544",
@@ -2350,12 +2701,12 @@
       "name": "Quentin Johnston",
       "position": "WR",
       "team": "LAC",
-      "season_target_share": 0.2222,
-      "recent_target_share": 0.2222,
-      "season_air_yards_share": 0.1429,
-      "recent_air_yards_share": 0.1429,
-      "season_snap_share": 0.78,
-      "recent_snap_share": 0.78
+      "season_target_share": 0.2073,
+      "recent_target_share": 0.2073,
+      "season_air_yards_share": 0.194,
+      "recent_air_yards_share": 0.194,
+      "season_snap_share": 0.795,
+      "recent_snap_share": 0.795
     },
     {
       "gsis_id": "00-0038547",
@@ -2389,12 +2740,12 @@
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.11,
-      "recent_snap_share": 0.11
+      "season_target_share": 0.0294,
+      "recent_target_share": 0.0294,
+      "season_air_yards_share": -0.0132,
+      "recent_air_yards_share": -0.0132,
+      "season_snap_share": 0.225,
+      "recent_snap_share": 0.225
     },
     {
       "gsis_id": "00-0038558",
@@ -2404,10 +2755,10 @@
       "team": "PIT",
       "season_target_share": 0.0541,
       "recent_target_share": 0.0541,
-      "season_air_yards_share": 0.0155,
-      "recent_air_yards_share": 0.0155,
-      "season_snap_share": 0.64,
-      "recent_snap_share": 0.64
+      "season_air_yards_share": 0.0179,
+      "recent_air_yards_share": 0.0179,
+      "season_snap_share": 0.585,
+      "recent_snap_share": 0.585
     },
     {
       "gsis_id": "00-0038559",
@@ -2415,12 +2766,12 @@
       "name": "Michael Wilson",
       "position": "WR",
       "team": "ARI",
-      "season_target_share": 0.1892,
-      "recent_target_share": 0.1892,
-      "season_air_yards_share": 0.2933,
-      "recent_air_yards_share": 0.2933,
-      "season_snap_share": 0.85,
-      "recent_snap_share": 0.85
+      "season_target_share": 0.2292,
+      "recent_target_share": 0.2292,
+      "season_air_yards_share": 0.4071,
+      "recent_air_yards_share": 0.4071,
+      "season_snap_share": 0.895,
+      "recent_snap_share": 0.895
     },
     {
       "gsis_id": "00-0038563",
@@ -2428,12 +2779,25 @@
       "name": "Tre Tucker",
       "position": "WR",
       "team": "LV",
-      "season_target_share": 0.1379,
-      "recent_target_share": 0.1379,
-      "season_air_yards_share": 0.2212,
-      "recent_air_yards_share": 0.2212,
-      "season_snap_share": 0.71,
-      "recent_snap_share": 0.71
+      "season_target_share": 0.1897,
+      "recent_target_share": 0.1897,
+      "season_air_yards_share": 0.3633,
+      "recent_air_yards_share": 0.3633,
+      "season_snap_share": 0.65,
+      "recent_snap_share": 0.65
+    },
+    {
+      "gsis_id": "00-0038564",
+      "sleeper_id": "10210",
+      "name": "Cameron Latu",
+      "position": "TE",
+      "team": "NE",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.25,
+      "recent_snap_share": 0.25
     },
     {
       "gsis_id": "00-0038573",
@@ -2441,12 +2805,12 @@
       "name": "Derius Davis",
       "position": "WR",
       "team": "LAC",
-      "season_target_share": 0.037,
-      "recent_target_share": 0.037,
-      "season_air_yards_share": 0.2015,
-      "recent_air_yards_share": 0.2015,
-      "season_snap_share": 0.18,
-      "recent_snap_share": 0.18
+      "season_target_share": 0.0377,
+      "recent_target_share": 0.0377,
+      "season_air_yards_share": 0.1276,
+      "recent_air_yards_share": 0.1276,
+      "season_snap_share": 0.15,
+      "recent_snap_share": 0.15
     },
     {
       "gsis_id": "00-0038597",
@@ -2454,12 +2818,12 @@
       "name": "Chase Brown",
       "position": "RB",
       "team": "CIN",
-      "season_target_share": 0.1765,
-      "recent_target_share": 0.1765,
-      "season_air_yards_share": -0.0531,
-      "recent_air_yards_share": -0.0531,
-      "season_snap_share": 0.72,
-      "recent_snap_share": 0.72
+      "season_target_share": 0.1689,
+      "recent_target_share": 0.1689,
+      "season_air_yards_share": -0.0699,
+      "recent_air_yards_share": -0.0699,
+      "season_snap_share": 0.71,
+      "recent_snap_share": 0.71
     },
     {
       "gsis_id": "00-0038606",
@@ -2467,12 +2831,12 @@
       "name": "Parker Washington",
       "position": "WR",
       "team": "JAX",
-      "season_target_share": 0.2857,
-      "recent_target_share": 0.2857,
-      "season_air_yards_share": 0.4636,
-      "recent_air_yards_share": 0.4636,
-      "season_snap_share": 0.61,
-      "recent_snap_share": 0.61
+      "season_target_share": 0.3571,
+      "recent_target_share": 0.3571,
+      "season_air_yards_share": 0.537,
+      "recent_air_yards_share": 0.537,
+      "season_snap_share": 0.71,
+      "recent_snap_share": 0.71
     },
     {
       "gsis_id": "00-0038608",
@@ -2480,12 +2844,12 @@
       "name": "Kayshon Boutte",
       "position": "WR",
       "team": "HOU",
-      "season_target_share": 0.0541,
-      "recent_target_share": 0.0541,
-      "season_air_yards_share": 0.1085,
-      "recent_air_yards_share": 0.1085,
-      "season_snap_share": 0.46,
-      "recent_snap_share": 0.46
+      "season_target_share": 0.077,
+      "recent_target_share": 0.077,
+      "season_air_yards_share": 0.1261,
+      "recent_air_yards_share": 0.1261,
+      "season_snap_share": 0.59,
+      "recent_snap_share": 0.59
     },
     {
       "gsis_id": "00-0038611",
@@ -2497,8 +2861,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.4,
-      "recent_snap_share": 0.4
+      "season_snap_share": 0.31,
+      "recent_snap_share": 0.31
     },
     {
       "gsis_id": "00-0038618",
@@ -2506,12 +2870,12 @@
       "name": "Xavier Hutchinson",
       "position": "WR",
       "team": "HOU",
-      "season_target_share": 0.1622,
-      "recent_target_share": 0.1622,
-      "season_air_yards_share": 0.1932,
-      "recent_air_yards_share": 0.1932,
-      "season_snap_share": 0.56,
-      "recent_snap_share": 0.56
+      "season_target_share": 0.1711,
+      "recent_target_share": 0.1711,
+      "season_air_yards_share": 0.2186,
+      "recent_air_yards_share": 0.2186,
+      "season_snap_share": 0.685,
+      "recent_snap_share": 0.685
     },
     {
       "gsis_id": "00-0038619",
@@ -2519,12 +2883,12 @@
       "name": "Andrei Iosivas",
       "position": "WR",
       "team": "CIN",
-      "season_target_share": 0.0882,
-      "recent_target_share": 0.0882,
-      "season_air_yards_share": 0.0664,
-      "recent_air_yards_share": 0.0664,
-      "season_snap_share": 0.61,
-      "recent_snap_share": 0.61
+      "season_target_share": 0.0602,
+      "recent_target_share": 0.0602,
+      "season_air_yards_share": 0.0505,
+      "recent_air_yards_share": 0.0505,
+      "season_snap_share": 0.57,
+      "recent_snap_share": 0.57
     },
     {
       "gsis_id": "00-0038621",
@@ -2532,12 +2896,38 @@
       "name": "DeMario Douglas",
       "position": "WR",
       "team": "NE",
-      "season_target_share": 0.2258,
-      "recent_target_share": 0.2258,
-      "season_air_yards_share": 0.2146,
-      "recent_air_yards_share": 0.2146,
-      "season_snap_share": 0.62,
-      "recent_snap_share": 0.62
+      "season_target_share": 0.1605,
+      "recent_target_share": 0.1605,
+      "season_air_yards_share": 0.1073,
+      "recent_air_yards_share": 0.1073,
+      "season_snap_share": 0.545,
+      "recent_snap_share": 0.545
+    },
+    {
+      "gsis_id": "00-0038640",
+      "sleeper_id": "11034",
+      "name": "Jalen Brooks",
+      "position": "WR",
+      "team": "ARI",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.04,
+      "recent_snap_share": 0.04
+    },
+    {
+      "gsis_id": "00-0038643",
+      "sleeper_id": "10224",
+      "name": "Brayden Willis",
+      "position": "TE",
+      "team": "SF",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.25,
+      "recent_snap_share": 0.25
     },
     {
       "gsis_id": "00-0038685",
@@ -2545,12 +2935,12 @@
       "name": "Chris Brooks",
       "position": "RB",
       "team": "GB",
-      "season_target_share": 0.025,
-      "recent_target_share": 0.025,
-      "season_air_yards_share": -0.0132,
-      "recent_air_yards_share": -0.0132,
-      "season_snap_share": 0.56,
-      "recent_snap_share": 0.56
+      "season_target_share": 0.047,
+      "recent_target_share": 0.047,
+      "season_air_yards_share": -0.0112,
+      "recent_air_yards_share": -0.0112,
+      "season_snap_share": 0.51,
+      "recent_snap_share": 0.51
     },
     {
       "gsis_id": "00-0038705",
@@ -2562,8 +2952,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.09,
-      "recent_snap_share": 0.09
+      "season_snap_share": 0.125,
+      "recent_snap_share": 0.125
     },
     {
       "gsis_id": "00-0038710",
@@ -2571,12 +2961,12 @@
       "name": "Blake Whiteheart",
       "position": "TE",
       "team": "CLE",
-      "season_target_share": 0.0455,
-      "recent_target_share": 0.0455,
-      "season_air_yards_share": 0.0263,
-      "recent_air_yards_share": 0.0263,
-      "season_snap_share": 0.39,
-      "recent_snap_share": 0.39
+      "season_target_share": 0.0561,
+      "recent_target_share": 0.0561,
+      "season_air_yards_share": 0.0409,
+      "recent_air_yards_share": 0.0409,
+      "season_snap_share": 0.43,
+      "recent_snap_share": 0.43
     },
     {
       "gsis_id": "00-0038728",
@@ -2584,12 +2974,12 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "HOU",
-      "season_target_share": 0.027,
-      "recent_target_share": 0.027,
-      "season_air_yards_share": 0.0407,
-      "recent_air_yards_share": 0.0407,
-      "season_snap_share": 0.32,
-      "recent_snap_share": 0.32
+      "season_target_share": 0.0835,
+      "recent_target_share": 0.0835,
+      "season_air_yards_share": 0.1336,
+      "recent_air_yards_share": 0.1336,
+      "season_snap_share": 0.41,
+      "recent_snap_share": 0.41
     },
     {
       "gsis_id": "00-0038738",
@@ -2601,8 +2991,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.26,
-      "recent_snap_share": 0.26
+      "season_snap_share": 0.22,
+      "recent_snap_share": 0.22
     },
     {
       "gsis_id": "00-0038783",
@@ -2610,12 +3000,25 @@
       "name": "Nate Adkins",
       "position": "TE",
       "team": "DEN",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.25,
-      "recent_snap_share": 0.25
+      "season_target_share": 0.0517,
+      "recent_target_share": 0.0517,
+      "season_air_yards_share": 0.0444,
+      "recent_air_yards_share": 0.0444,
+      "season_snap_share": 0.31,
+      "recent_snap_share": 0.31
+    },
+    {
+      "gsis_id": "00-0038794",
+      "sleeper_id": "11439",
+      "name": "Jaleel McLaughlin",
+      "position": "RB",
+      "team": "CLE",
+      "season_target_share": 0.0333,
+      "recent_target_share": 0.0333,
+      "season_air_yards_share": 0.0093,
+      "recent_air_yards_share": 0.0093,
+      "season_snap_share": 0.14,
+      "recent_snap_share": 0.14
     },
     {
       "gsis_id": "00-0038797",
@@ -2623,12 +3026,25 @@
       "name": "Emanuel Wilson",
       "position": "RB",
       "team": "SEA",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.06,
-      "recent_snap_share": 0.06
+      "season_target_share": 0.0192,
+      "recent_target_share": 0.0192,
+      "season_air_yards_share": 0.0022,
+      "recent_air_yards_share": 0.0022,
+      "season_snap_share": 0.235,
+      "recent_snap_share": 0.235
+    },
+    {
+      "gsis_id": "00-0038824",
+      "sleeper_id": "11421",
+      "name": "Ryan Miller",
+      "position": "WR",
+      "team": "MIA",
+      "season_target_share": 0.0435,
+      "recent_target_share": 0.0435,
+      "season_air_yards_share": 0.2426,
+      "recent_air_yards_share": 0.2426,
+      "season_snap_share": 0.12,
+      "recent_snap_share": 0.12
     },
     {
       "gsis_id": "00-0038840",
@@ -2640,8 +3056,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.18,
-      "recent_snap_share": 0.18
+      "season_snap_share": 0.175,
+      "recent_snap_share": 0.175
     },
     {
       "gsis_id": "00-0038896",
@@ -2662,12 +3078,12 @@
       "name": "Dalton Kincaid",
       "position": "TE",
       "team": "BUF",
-      "season_target_share": 0.2143,
-      "recent_target_share": 0.2143,
-      "season_air_yards_share": 0.273,
-      "recent_air_yards_share": 0.273,
-      "season_snap_share": 0.72,
-      "recent_snap_share": 0.72
+      "season_target_share": 0.25,
+      "recent_target_share": 0.25,
+      "season_air_yards_share": 0.3058,
+      "recent_air_yards_share": 0.3058,
+      "season_snap_share": 0.69,
+      "recent_snap_share": 0.69
     },
     {
       "gsis_id": "00-0038935",
@@ -2675,12 +3091,12 @@
       "name": "Brenton Strange",
       "position": "TE",
       "team": "JAX",
-      "season_target_share": 0.1429,
-      "recent_target_share": 0.1429,
-      "season_air_yards_share": 0.1545,
-      "recent_air_yards_share": 0.1545,
-      "season_snap_share": 0.68,
-      "recent_snap_share": 0.68
+      "season_target_share": 0.1071,
+      "recent_target_share": 0.1071,
+      "season_air_yards_share": 0.1066,
+      "recent_air_yards_share": 0.1066,
+      "season_snap_share": 0.755,
+      "recent_snap_share": 0.755
     },
     {
       "gsis_id": "00-0038976",
@@ -2701,12 +3117,12 @@
       "name": "Jordan Addison",
       "position": "WR",
       "team": "MIN",
-      "season_target_share": 0.087,
-      "recent_target_share": 0.087,
-      "season_air_yards_share": 0.157,
-      "recent_air_yards_share": 0.157,
-      "season_snap_share": 0.83,
-      "recent_snap_share": 0.83
+      "season_target_share": 0.1751,
+      "recent_target_share": 0.1751,
+      "season_air_yards_share": 0.2112,
+      "recent_air_yards_share": 0.2112,
+      "season_snap_share": 0.855,
+      "recent_snap_share": 0.855
     },
     {
       "gsis_id": "00-0038996",
@@ -2714,12 +3130,12 @@
       "name": "Tucker Kraft",
       "position": "TE",
       "team": "GB",
-      "season_target_share": 0.15,
-      "recent_target_share": 0.15,
-      "season_air_yards_share": 0.1806,
-      "recent_air_yards_share": 0.1806,
-      "season_snap_share": 0.66,
-      "recent_snap_share": 0.66
+      "season_target_share": 0.1267,
+      "recent_target_share": 0.1267,
+      "season_air_yards_share": 0.1135,
+      "recent_air_yards_share": 0.1135,
+      "season_snap_share": 0.82,
+      "recent_snap_share": 0.82
     },
     {
       "gsis_id": "00-0038997",
@@ -2727,12 +3143,12 @@
       "name": "Josh Downs",
       "position": "WR",
       "team": "IND",
-      "season_target_share": 0.1379,
-      "recent_target_share": 0.1379,
-      "season_air_yards_share": 0.1905,
-      "recent_air_yards_share": 0.1905,
-      "season_snap_share": 0.89,
-      "recent_snap_share": 0.89
+      "season_target_share": 0.219,
+      "recent_target_share": 0.219,
+      "season_air_yards_share": 0.3263,
+      "recent_air_yards_share": 0.3263,
+      "season_snap_share": 0.86,
+      "recent_snap_share": 0.86
     },
     {
       "gsis_id": "00-0039021",
@@ -2753,12 +3169,12 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "season_target_share": 0.1429,
-      "recent_target_share": 0.1429,
-      "season_air_yards_share": -0.0732,
-      "recent_air_yards_share": -0.0732,
-      "season_snap_share": 0.5,
-      "recent_snap_share": 0.5
+      "season_target_share": 0.1303,
+      "recent_target_share": 0.1303,
+      "season_air_yards_share": -0.0322,
+      "recent_air_yards_share": -0.0322,
+      "season_snap_share": 0.43,
+      "recent_snap_share": 0.43
     },
     {
       "gsis_id": "00-0039040",
@@ -2766,12 +3182,25 @@
       "name": "De'Von Achane",
       "position": "RB",
       "team": "MIA",
-      "season_target_share": 0.1852,
-      "recent_target_share": 0.1852,
-      "season_air_yards_share": 0.0129,
-      "recent_air_yards_share": 0.0129,
-      "season_snap_share": 0.86,
-      "recent_snap_share": 0.86
+      "season_target_share": 0.223,
+      "recent_target_share": 0.223,
+      "season_air_yards_share": 0.0775,
+      "recent_air_yards_share": 0.0775,
+      "season_snap_share": 0.81,
+      "recent_snap_share": 0.81
+    },
+    {
+      "gsis_id": "00-0039041",
+      "sleeper_id": "10231",
+      "name": "Elijah Higgins",
+      "position": "TE",
+      "team": "ARI",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.26,
+      "recent_snap_share": 0.26
     },
     {
       "gsis_id": "00-0039062",
@@ -2805,12 +3234,12 @@
       "name": "Sam LaPorta",
       "position": "TE",
       "team": "DET",
-      "season_target_share": 0.2051,
-      "recent_target_share": 0.2051,
-      "season_air_yards_share": 0.0338,
-      "recent_air_yards_share": 0.0338,
-      "season_snap_share": 0.81,
-      "recent_snap_share": 0.81
+      "season_target_share": 0.1947,
+      "recent_target_share": 0.1947,
+      "season_air_yards_share": 0.051,
+      "recent_air_yards_share": 0.051,
+      "season_snap_share": 0.895,
+      "recent_snap_share": 0.895
     },
     {
       "gsis_id": "00-0039066",
@@ -2818,12 +3247,12 @@
       "name": "Michael Mayer",
       "position": "TE",
       "team": "LV",
-      "season_target_share": 0.2414,
-      "recent_target_share": 0.2414,
-      "season_air_yards_share": 0.1239,
-      "recent_air_yards_share": 0.1239,
-      "season_snap_share": 0.81,
-      "recent_snap_share": 0.81
+      "season_target_share": 0.1897,
+      "recent_target_share": 0.1897,
+      "season_air_yards_share": 0.0937,
+      "recent_air_yards_share": 0.0937,
+      "season_snap_share": 0.825,
+      "recent_snap_share": 0.825
     },
     {
       "gsis_id": "00-0039067",
@@ -2831,12 +3260,12 @@
       "name": "Rashee Rice",
       "position": "WR",
       "team": "KC",
-      "season_target_share": 0.08,
-      "recent_target_share": 0.08,
-      "season_air_yards_share": 0.0513,
-      "recent_air_yards_share": 0.0513,
-      "season_snap_share": 0.83,
-      "recent_snap_share": 0.83
+      "season_target_share": 0.1098,
+      "recent_target_share": 0.1098,
+      "season_air_yards_share": 0.1167,
+      "recent_air_yards_share": 0.1167,
+      "season_snap_share": 0.81,
+      "recent_snap_share": 0.81
     },
     {
       "gsis_id": "00-0039074",
@@ -2844,12 +3273,12 @@
       "name": "Davis Allen",
       "position": "TE",
       "team": "LA",
-      "season_target_share": 0.037,
-      "recent_target_share": 0.037,
-      "season_air_yards_share": -0.0039,
-      "recent_air_yards_share": -0.0039,
-      "season_snap_share": 0.34,
-      "recent_snap_share": 0.34
+      "season_target_share": 0.0352,
+      "recent_target_share": 0.0352,
+      "season_air_yards_share": 0.0011,
+      "recent_air_yards_share": 0.0011,
+      "season_snap_share": 0.43,
+      "recent_snap_share": 0.43
     },
     {
       "gsis_id": "00-0039075",
@@ -2883,12 +3312,12 @@
       "name": "Jahmyr Gibbs",
       "position": "RB",
       "team": "DET",
-      "season_target_share": 0.1282,
-      "recent_target_share": 0.1282,
-      "season_air_yards_share": -0.0193,
-      "recent_air_yards_share": -0.0193,
-      "season_snap_share": 0.74,
-      "recent_snap_share": 0.74
+      "season_target_share": 0.1694,
+      "recent_target_share": 0.1694,
+      "season_air_yards_share": 0.0408,
+      "recent_air_yards_share": 0.0408,
+      "season_snap_share": 0.785,
+      "recent_snap_share": 0.785
     },
     {
       "gsis_id": "00-0039146",
@@ -2896,12 +3325,12 @@
       "name": "Jayden Reed",
       "position": "WR",
       "team": "GB",
-      "season_target_share": 0.175,
-      "recent_target_share": 0.175,
-      "season_air_yards_share": 0.1101,
-      "recent_air_yards_share": 0.1101,
-      "season_snap_share": 0.57,
-      "recent_snap_share": 0.57
+      "season_target_share": 0.1047,
+      "recent_target_share": 0.1047,
+      "season_air_yards_share": 0.0435,
+      "recent_air_yards_share": 0.0435,
+      "season_snap_share": 0.3,
+      "recent_snap_share": 0.3
     },
     {
       "gsis_id": "00-0039150",
@@ -2913,8 +3342,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.9,
-      "recent_snap_share": 0.9
+      "season_snap_share": 0.92,
+      "recent_snap_share": 0.92
     },
     {
       "gsis_id": "00-0039163",
@@ -2935,12 +3364,12 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "season_target_share": 0.0417,
-      "recent_target_share": 0.0417,
-      "season_air_yards_share": 0.039,
-      "recent_air_yards_share": 0.039,
-      "season_snap_share": 0.46,
-      "recent_snap_share": 0.46
+      "season_target_share": 0.0401,
+      "recent_target_share": 0.0401,
+      "season_air_yards_share": 0.0107,
+      "recent_air_yards_share": 0.0107,
+      "season_snap_share": 0.36,
+      "recent_snap_share": 0.36
     },
     {
       "gsis_id": "00-0039337",
@@ -2948,12 +3377,12 @@
       "name": "Malik Nabers",
       "position": "WR",
       "team": "NYG",
-      "season_target_share": 0.3103,
-      "recent_target_share": 0.3103,
-      "season_air_yards_share": 0.4204,
-      "recent_air_yards_share": 0.4204,
-      "season_snap_share": 0.52,
-      "recent_snap_share": 0.52
+      "season_target_share": 0.2177,
+      "recent_target_share": 0.2177,
+      "season_air_yards_share": 0.3231,
+      "recent_air_yards_share": 0.3231,
+      "season_snap_share": 0.63,
+      "recent_snap_share": 0.63
     },
     {
       "gsis_id": "00-0039342",
@@ -2961,12 +3390,12 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "season_target_share": 0.0588,
-      "recent_target_share": 0.0588,
-      "season_air_yards_share": 0.0595,
-      "recent_air_yards_share": 0.0595,
-      "season_snap_share": 0.53,
-      "recent_snap_share": 0.53
+      "season_target_share": 0.0919,
+      "recent_target_share": 0.0919,
+      "season_air_yards_share": 0.1621,
+      "recent_air_yards_share": 0.1621,
+      "season_snap_share": 0.515,
+      "recent_snap_share": 0.515
     },
     {
       "gsis_id": "00-0039344",
@@ -2974,12 +3403,12 @@
       "name": "Jonathon Brooks",
       "position": "RB",
       "team": "CAR",
-      "season_target_share": 0.0588,
-      "recent_target_share": 0.0588,
-      "season_air_yards_share": 0.0893,
-      "recent_air_yards_share": 0.0893,
-      "season_snap_share": 0.19,
-      "recent_snap_share": 0.19
+      "season_target_share": 0.045,
+      "recent_target_share": 0.045,
+      "season_air_yards_share": 0.0343,
+      "recent_air_yards_share": 0.0343,
+      "season_snap_share": 0.245,
+      "recent_snap_share": 0.245
     },
     {
       "gsis_id": "00-0039359",
@@ -3000,12 +3429,12 @@
       "name": "Bucky Irving",
       "position": "RB",
       "team": "TB",
-      "season_target_share": 0.2593,
-      "recent_target_share": 0.2593,
-      "season_air_yards_share": -0.1894,
-      "recent_air_yards_share": -0.1894,
-      "season_snap_share": 0.61,
-      "recent_snap_share": 0.61
+      "season_target_share": 0.1902,
+      "recent_target_share": 0.1902,
+      "season_air_yards_share": -0.1213,
+      "recent_air_yards_share": -0.1213,
+      "season_snap_share": 0.695,
+      "recent_snap_share": 0.695
     },
     {
       "gsis_id": "00-0039364",
@@ -3013,12 +3442,12 @@
       "name": "Sione Vaki",
       "position": "RB",
       "team": "DET",
-      "season_target_share": 0.0256,
-      "recent_target_share": 0.0256,
-      "season_air_yards_share": 0.0097,
-      "recent_air_yards_share": 0.0097,
-      "season_snap_share": 0.29,
-      "recent_snap_share": 0.29
+      "season_target_share": 0.026,
+      "recent_target_share": 0.026,
+      "season_air_yards_share": 0.0063,
+      "recent_air_yards_share": 0.0063,
+      "season_snap_share": 0.23,
+      "recent_snap_share": 0.23
     },
     {
       "gsis_id": "00-0039365",
@@ -3030,8 +3459,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.08,
-      "recent_snap_share": 0.08
+      "season_snap_share": 0.27,
+      "recent_snap_share": 0.27
     },
     {
       "gsis_id": "00-0039384",
@@ -3043,8 +3472,21 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.03,
-      "recent_snap_share": 0.03
+      "season_snap_share": 0.025,
+      "recent_snap_share": 0.025
+    },
+    {
+      "gsis_id": "00-0039391",
+      "sleeper_id": "11647",
+      "name": "Kimani Vidal",
+      "position": "RB",
+      "team": "LAC",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.1,
+      "recent_snap_share": 0.1
     },
     {
       "gsis_id": "00-0039407",
@@ -3056,8 +3498,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.15,
-      "recent_snap_share": 0.15
+      "season_snap_share": 0.14,
+      "recent_snap_share": 0.14
     },
     {
       "gsis_id": "00-0039410",
@@ -3065,12 +3507,12 @@
       "name": "Ryan Flournoy",
       "position": "WR",
       "team": "DAL",
-      "season_target_share": 0.1333,
-      "recent_target_share": 0.1333,
-      "season_air_yards_share": 0.095,
-      "recent_air_yards_share": 0.095,
-      "season_snap_share": 0.71,
-      "recent_snap_share": 0.71
+      "season_target_share": 0.1634,
+      "recent_target_share": 0.1634,
+      "season_air_yards_share": 0.0639,
+      "recent_air_yards_share": 0.0639,
+      "season_snap_share": 0.735,
+      "recent_snap_share": 0.735
     },
     {
       "gsis_id": "00-0039424",
@@ -3078,12 +3520,12 @@
       "name": "Devaughn Vele",
       "position": "WR",
       "team": "NO",
-      "season_target_share": 0.1731,
-      "recent_target_share": 0.1731,
-      "season_air_yards_share": 0.1355,
-      "recent_air_yards_share": 0.1355,
-      "season_snap_share": 0.91,
-      "recent_snap_share": 0.91
+      "season_target_share": 0.1959,
+      "recent_target_share": 0.1959,
+      "season_air_yards_share": 0.2474,
+      "recent_air_yards_share": 0.2474,
+      "season_snap_share": 0.935,
+      "recent_snap_share": 0.935
     },
     {
       "gsis_id": "00-0039451",
@@ -3091,12 +3533,12 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "season_target_share": 0.0435,
-      "recent_target_share": 0.0435,
-      "season_air_yards_share": 0.0449,
-      "recent_air_yards_share": 0.0449,
-      "season_snap_share": 0.6,
-      "recent_snap_share": 0.6
+      "season_target_share": 0.1051,
+      "recent_target_share": 0.1051,
+      "season_air_yards_share": 0.0264,
+      "recent_air_yards_share": 0.0264,
+      "season_snap_share": 0.71,
+      "recent_snap_share": 0.71
     },
     {
       "gsis_id": "00-0039471",
@@ -3117,12 +3559,12 @@
       "name": "Jalen Coker",
       "position": "WR",
       "team": "CAR",
-      "season_target_share": 0.2647,
-      "recent_target_share": 0.2647,
-      "season_air_yards_share": 0.369,
-      "recent_air_yards_share": 0.369,
-      "season_snap_share": 0.84,
-      "recent_snap_share": 0.84
+      "season_target_share": 0.273,
+      "recent_target_share": 0.273,
+      "season_air_yards_share": 0.267,
+      "recent_air_yards_share": 0.267,
+      "season_snap_share": 0.8,
+      "recent_snap_share": 0.8
     },
     {
       "gsis_id": "00-0039518",
@@ -3134,8 +3576,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": null,
-      "recent_snap_share": null
+      "season_snap_share": 0.11,
+      "recent_snap_share": 0.11
     },
     {
       "gsis_id": "00-0039530",
@@ -3143,12 +3585,12 @@
       "name": "Brevyn Spann-Ford",
       "position": "TE",
       "team": "DAL",
-      "season_target_share": 0.0667,
-      "recent_target_share": 0.0667,
-      "season_air_yards_share": 0.0248,
-      "recent_air_yards_share": 0.0248,
-      "season_snap_share": 0.22,
-      "recent_snap_share": 0.22
+      "season_target_share": 0.0333,
+      "recent_target_share": 0.0333,
+      "season_air_yards_share": 0.0124,
+      "recent_air_yards_share": 0.0124,
+      "season_snap_share": 0.3,
+      "recent_snap_share": 0.3
     },
     {
       "gsis_id": "00-0039589",
@@ -3160,8 +3602,21 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.09,
-      "recent_snap_share": 0.09
+      "season_snap_share": 0.045,
+      "recent_snap_share": 0.045
+    },
+    {
+      "gsis_id": "00-0039603",
+      "sleeper_id": "12171",
+      "name": "British Brooks",
+      "position": "RB",
+      "team": "HOU",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.0,
+      "recent_snap_share": 0.0
     },
     {
       "gsis_id": "00-0039686",
@@ -3169,12 +3624,12 @@
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.03,
-      "recent_snap_share": 0.03
+      "season_target_share": 0.0147,
+      "recent_target_share": 0.0147,
+      "season_air_yards_share": 0.0055,
+      "recent_air_yards_share": 0.0055,
+      "season_snap_share": 0.165,
+      "recent_snap_share": 0.165
     },
     {
       "gsis_id": "00-0039732",
@@ -3195,12 +3650,12 @@
       "name": "Blake Corum",
       "position": "RB",
       "team": "LA",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.23,
-      "recent_snap_share": 0.23
+      "season_target_share": 0.0167,
+      "recent_target_share": 0.0167,
+      "season_air_yards_share": -0.0091,
+      "recent_air_yards_share": -0.0091,
+      "season_snap_share": 0.34,
+      "recent_snap_share": 0.34
     },
     {
       "gsis_id": "00-0039739",
@@ -3210,10 +3665,10 @@
       "team": "PIT",
       "season_target_share": 0.1622,
       "recent_target_share": 0.1622,
-      "season_air_yards_share": 0.3247,
-      "recent_air_yards_share": 0.3247,
-      "season_snap_share": 0.55,
-      "recent_snap_share": 0.55
+      "season_air_yards_share": 0.2159,
+      "recent_air_yards_share": 0.2159,
+      "season_snap_share": 0.67,
+      "recent_snap_share": 0.67
     },
     {
       "gsis_id": "00-0039746",
@@ -3221,12 +3676,12 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "season_target_share": 0.0455,
-      "recent_target_share": 0.0455,
-      "season_air_yards_share": 0.0279,
-      "recent_air_yards_share": 0.0279,
-      "season_snap_share": 0.18,
-      "recent_snap_share": 0.18
+      "season_target_share": 0.0521,
+      "recent_target_share": 0.0521,
+      "season_air_yards_share": 0.014,
+      "recent_air_yards_share": 0.014,
+      "season_snap_share": 0.345,
+      "recent_snap_share": 0.345
     },
     {
       "gsis_id": "00-0039751",
@@ -3242,17 +3697,30 @@
       "recent_snap_share": 0.41
     },
     {
+      "gsis_id": "00-0039792",
+      "sleeper_id": "11629",
+      "name": "Devontez Walker",
+      "position": "WR",
+      "team": "BAL",
+      "season_target_share": 0.069,
+      "recent_target_share": 0.069,
+      "season_air_yards_share": 0.1935,
+      "recent_air_yards_share": 0.1935,
+      "season_snap_share": 0.29,
+      "recent_snap_share": 0.29
+    },
+    {
       "gsis_id": "00-0039793",
       "sleeper_id": "11603",
       "name": "AJ Barner",
       "position": "TE",
       "team": "SEA",
-      "season_target_share": 0.0833,
-      "recent_target_share": 0.0833,
-      "season_air_yards_share": -0.0065,
-      "recent_air_yards_share": -0.0065,
-      "season_snap_share": 0.88,
-      "recent_snap_share": 0.88
+      "season_target_share": 0.0609,
+      "recent_target_share": 0.0609,
+      "season_air_yards_share": 0.0144,
+      "recent_air_yards_share": 0.0144,
+      "season_snap_share": 0.84,
+      "recent_snap_share": 0.84
     },
     {
       "gsis_id": "00-0039794",
@@ -3260,12 +3728,12 @@
       "name": "Braelon Allen",
       "position": "RB",
       "team": "NYJ",
-      "season_target_share": 0.0435,
-      "recent_target_share": 0.0435,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.4,
-      "recent_snap_share": 0.4
+      "season_target_share": 0.0356,
+      "recent_target_share": 0.0356,
+      "season_air_yards_share": 0.0059,
+      "recent_air_yards_share": 0.0059,
+      "season_snap_share": 0.355,
+      "recent_snap_share": 0.355
     },
     {
       "gsis_id": "00-0039796",
@@ -3281,17 +3749,56 @@
       "recent_snap_share": 0.0
     },
     {
+      "gsis_id": "00-0039798",
+      "sleeper_id": "11571",
+      "name": "Isaiah Davis",
+      "position": "RB",
+      "team": "NYJ",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.0,
+      "recent_snap_share": 0.0
+    },
+    {
       "gsis_id": "00-0039811",
       "sleeper_id": "11581",
       "name": "MarShawn Lloyd",
       "position": "RB",
       "team": "GB",
-      "season_target_share": 0.025,
-      "recent_target_share": 0.025,
-      "season_air_yards_share": 0.0396,
-      "recent_air_yards_share": 0.0396,
-      "season_snap_share": 0.44,
-      "recent_snap_share": 0.44
+      "season_target_share": 0.047,
+      "recent_target_share": 0.047,
+      "season_air_yards_share": 0.0106,
+      "recent_air_yards_share": 0.0106,
+      "season_snap_share": 0.355,
+      "recent_snap_share": 0.355
+    },
+    {
+      "gsis_id": "00-0039814",
+      "sleeper_id": "11592",
+      "name": "Erick All",
+      "position": "TE",
+      "team": "CIN",
+      "season_target_share": 0.0968,
+      "recent_target_share": 0.0968,
+      "season_air_yards_share": -0.0058,
+      "recent_air_yards_share": -0.0058,
+      "season_snap_share": 0.42,
+      "recent_snap_share": 0.42
+    },
+    {
+      "gsis_id": "00-0039816",
+      "sleeper_id": "11762",
+      "name": "Anthony Gould",
+      "position": "WR",
+      "team": "IND",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.0,
+      "recent_snap_share": 0.0
     },
     {
       "gsis_id": "00-0039847",
@@ -3299,12 +3806,12 @@
       "name": "Theo Johnson",
       "position": "TE",
       "team": "NYG",
-      "season_target_share": 0.0345,
-      "recent_target_share": 0.0345,
-      "season_air_yards_share": 0.0082,
-      "recent_air_yards_share": 0.0082,
-      "season_snap_share": 0.46,
-      "recent_snap_share": 0.46
+      "season_target_share": 0.0797,
+      "recent_target_share": 0.0797,
+      "season_air_yards_share": 0.0847,
+      "recent_air_yards_share": 0.0847,
+      "season_snap_share": 0.37,
+      "recent_snap_share": 0.37
     },
     {
       "gsis_id": "00-0039849",
@@ -3312,12 +3819,12 @@
       "name": "Marvin Harrison Jr.",
       "position": "WR",
       "team": "ARI",
-      "season_target_share": 0.0811,
-      "recent_target_share": 0.0811,
-      "season_air_yards_share": 0.2509,
-      "recent_air_yards_share": 0.2509,
-      "season_snap_share": 0.79,
-      "recent_snap_share": 0.79
+      "season_target_share": 0.0598,
+      "recent_target_share": 0.0598,
+      "season_air_yards_share": 0.1411,
+      "recent_air_yards_share": 0.1411,
+      "season_snap_share": 0.765,
+      "recent_snap_share": 0.765
     },
     {
       "gsis_id": "00-0039851",
@@ -3338,12 +3845,12 @@
       "name": "Troy Franklin",
       "position": "WR",
       "team": "DEN",
-      "season_target_share": 0.037,
-      "recent_target_share": 0.037,
-      "season_air_yards_share": 0.2981,
-      "recent_air_yards_share": 0.2981,
-      "season_snap_share": 0.33,
-      "recent_snap_share": 0.33
+      "season_target_share": 0.053,
+      "recent_target_share": 0.053,
+      "season_air_yards_share": 0.2101,
+      "recent_air_yards_share": 0.2101,
+      "season_snap_share": 0.27,
+      "recent_snap_share": 0.27
     },
     {
       "gsis_id": "00-0039874",
@@ -3355,8 +3862,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.07,
-      "recent_snap_share": 0.07
+      "season_snap_share": 0.06,
+      "recent_snap_share": 0.06
     },
     {
       "gsis_id": "00-0039875",
@@ -3368,8 +3875,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.09,
-      "recent_snap_share": 0.09
+      "season_snap_share": 0.115,
+      "recent_snap_share": 0.115
     },
     {
       "gsis_id": "00-0039880",
@@ -3377,12 +3884,12 @@
       "name": "Malik Washington",
       "position": "WR",
       "team": "MIA",
-      "season_target_share": 0.2963,
-      "recent_target_share": 0.2963,
-      "season_air_yards_share": 0.4369,
-      "recent_air_yards_share": 0.4369,
-      "season_snap_share": 0.98,
-      "recent_snap_share": 0.98
+      "season_target_share": 0.2568,
+      "recent_target_share": 0.2568,
+      "season_air_yards_share": 0.2983,
+      "recent_air_yards_share": 0.2983,
+      "season_snap_share": 0.855,
+      "recent_snap_share": 0.855
     },
     {
       "gsis_id": "00-0039890",
@@ -3390,12 +3897,12 @@
       "name": "Adonai Mitchell",
       "position": "WR",
       "team": "NYJ",
-      "season_target_share": 0.1304,
-      "recent_target_share": 0.1304,
-      "season_air_yards_share": 0.3782,
-      "recent_air_yards_share": 0.3782,
-      "season_snap_share": 0.69,
-      "recent_snap_share": 0.69
+      "season_target_share": 0.2319,
+      "recent_target_share": 0.2319,
+      "season_air_yards_share": 0.5381,
+      "recent_air_yards_share": 0.5381,
+      "season_snap_share": 0.755,
+      "recent_snap_share": 0.755
     },
     {
       "gsis_id": "00-0039893",
@@ -3403,12 +3910,12 @@
       "name": "Brian Thomas Jr.",
       "position": "WR",
       "team": "JAX",
-      "season_target_share": 0.1429,
-      "recent_target_share": 0.1429,
-      "season_air_yards_share": 0.2,
-      "recent_air_yards_share": 0.2,
-      "season_snap_share": 0.35,
-      "recent_snap_share": 0.35
+      "season_target_share": 0.2143,
+      "recent_target_share": 0.2143,
+      "season_air_yards_share": 0.2414,
+      "recent_air_yards_share": 0.2414,
+      "season_snap_share": 0.445,
+      "recent_snap_share": 0.445
     },
     {
       "gsis_id": "00-0039894",
@@ -3416,12 +3923,12 @@
       "name": "Xavier Worthy",
       "position": "WR",
       "team": "KC",
-      "season_target_share": 0.24,
-      "recent_target_share": 0.24,
-      "season_air_yards_share": 0.359,
-      "recent_air_yards_share": 0.359,
-      "season_snap_share": 0.77,
-      "recent_snap_share": 0.77
+      "season_target_share": 0.2014,
+      "recent_target_share": 0.2014,
+      "season_air_yards_share": 0.2605,
+      "recent_air_yards_share": 0.2605,
+      "season_snap_share": 0.815,
+      "recent_snap_share": 0.815
     },
     {
       "gsis_id": "00-0039901",
@@ -3429,12 +3936,12 @@
       "name": "Keon Coleman",
       "position": "WR",
       "team": "BUF",
-      "season_target_share": 0.0357,
-      "recent_target_share": 0.0357,
-      "season_air_yards_share": 0.0111,
-      "recent_air_yards_share": 0.0111,
-      "season_snap_share": 0.5,
-      "recent_snap_share": 0.5
+      "season_target_share": 0.125,
+      "recent_target_share": 0.125,
+      "season_air_yards_share": 0.1023,
+      "recent_air_yards_share": 0.1023,
+      "season_snap_share": 0.62,
+      "recent_snap_share": 0.62
     },
     {
       "gsis_id": "00-0039910",
@@ -3446,8 +3953,21 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 1.0,
-      "recent_snap_share": 1.0
+      "season_snap_share": 0.775,
+      "recent_snap_share": 0.775
+    },
+    {
+      "gsis_id": "00-0039912",
+      "sleeper_id": "11596",
+      "name": "Ben Sinnott",
+      "position": "TE",
+      "team": "WAS",
+      "season_target_share": 0.0294,
+      "recent_target_share": 0.0294,
+      "season_air_yards_share": 0.0111,
+      "recent_air_yards_share": 0.0111,
+      "season_snap_share": 0.68,
+      "recent_snap_share": 0.68
     },
     {
       "gsis_id": "00-0039915",
@@ -3455,12 +3975,12 @@
       "name": "Ladd McConkey",
       "position": "WR",
       "team": "LAC",
-      "season_target_share": 0.2593,
-      "recent_target_share": 0.2593,
-      "season_air_yards_share": 0.3553,
-      "recent_air_yards_share": 0.3553,
-      "season_snap_share": 0.49,
-      "recent_snap_share": 0.49
+      "season_target_share": 0.1873,
+      "recent_target_share": 0.1873,
+      "season_air_yards_share": 0.2428,
+      "recent_air_yards_share": 0.2428,
+      "season_snap_share": 0.475,
+      "recent_snap_share": 0.475
     },
     {
       "gsis_id": "00-0039918",
@@ -3472,8 +3992,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 1.0,
-      "recent_snap_share": 1.0
+      "season_snap_share": 0.93,
+      "recent_snap_share": 0.93
     },
     {
       "gsis_id": "00-0039919",
@@ -3481,12 +4001,12 @@
       "name": "Rome Odunze",
       "position": "WR",
       "team": "CHI",
-      "season_target_share": 0.1154,
-      "recent_target_share": 0.1154,
-      "season_air_yards_share": 0.3191,
-      "recent_air_yards_share": 0.3191,
-      "season_snap_share": 0.48,
-      "recent_snap_share": 0.48
+      "season_target_share": 0.1244,
+      "recent_target_share": 0.1244,
+      "season_air_yards_share": 0.302,
+      "recent_air_yards_share": 0.302,
+      "season_snap_share": 0.66,
+      "recent_snap_share": 0.66
     },
     {
       "gsis_id": "00-0039920",
@@ -3507,12 +4027,12 @@
       "name": "Darius Cooper",
       "position": "WR",
       "team": "PHI",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.15,
-      "recent_snap_share": 0.15
+      "season_target_share": 0.0441,
+      "recent_target_share": 0.0441,
+      "season_air_yards_share": 0.0413,
+      "recent_air_yards_share": 0.0413,
+      "season_snap_share": 0.28,
+      "recent_snap_share": 0.28
     },
     {
       "gsis_id": "00-0040075",
@@ -3520,12 +4040,25 @@
       "name": "LaJohntay Wester",
       "position": "WR",
       "team": "BAL",
-      "season_target_share": 0.0833,
-      "recent_target_share": 0.0833,
-      "season_air_yards_share": 0.0407,
-      "recent_air_yards_share": 0.0407,
-      "season_snap_share": 0.29,
-      "recent_snap_share": 0.29
+      "season_target_share": 0.0761,
+      "recent_target_share": 0.0761,
+      "season_air_yards_share": 0.0365,
+      "recent_air_yards_share": 0.0365,
+      "season_snap_share": 0.41,
+      "recent_snap_share": 0.41
+    },
+    {
+      "gsis_id": "00-0040078",
+      "sleeper_id": "12455",
+      "name": "Brashard Smith",
+      "position": "RB",
+      "team": "KC",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.0,
+      "recent_snap_share": 0.0
     },
     {
       "gsis_id": "00-0040081",
@@ -3546,12 +4079,12 @@
       "name": "Ashton Jeanty",
       "position": "RB",
       "team": "LV",
-      "season_target_share": 0.2069,
-      "recent_target_share": 0.2069,
-      "season_air_yards_share": 0.0796,
-      "recent_air_yards_share": 0.0796,
-      "season_snap_share": 0.74,
-      "recent_snap_share": 0.74
+      "season_target_share": 0.2241,
+      "recent_target_share": 0.2241,
+      "season_air_yards_share": 0.0434,
+      "recent_air_yards_share": 0.0434,
+      "season_snap_share": 0.775,
+      "recent_snap_share": 0.775
     },
     {
       "gsis_id": "00-0040124",
@@ -3559,12 +4092,12 @@
       "name": "Tetairoa McMillan",
       "position": "WR",
       "team": "CAR",
-      "season_target_share": 0.2353,
-      "recent_target_share": 0.2353,
-      "season_air_yards_share": 0.3542,
-      "recent_air_yards_share": 0.3542,
-      "season_snap_share": 0.82,
-      "recent_snap_share": 0.82
+      "season_target_share": 0.2739,
+      "recent_target_share": 0.2739,
+      "season_air_yards_share": 0.4039,
+      "recent_air_yards_share": 0.4039,
+      "season_snap_share": 0.81,
+      "recent_snap_share": 0.81
     },
     {
       "gsis_id": "00-0040126",
@@ -3572,12 +4105,12 @@
       "name": "Colston Loveland",
       "position": "TE",
       "team": "CHI",
-      "season_target_share": 0.0769,
-      "recent_target_share": 0.0769,
-      "season_air_yards_share": 0.1064,
-      "recent_air_yards_share": 0.1064,
-      "season_snap_share": 0.87,
-      "recent_snap_share": 0.87
+      "season_target_share": 0.0885,
+      "recent_target_share": 0.0885,
+      "season_air_yards_share": 0.0926,
+      "recent_air_yards_share": 0.0926,
+      "season_snap_share": 0.865,
+      "recent_snap_share": 0.865
     },
     {
       "gsis_id": "00-0040128",
@@ -3585,12 +4118,12 @@
       "name": "Tyler Warren",
       "position": "TE",
       "team": "IND",
-      "season_target_share": 0.1724,
-      "recent_target_share": 0.1724,
-      "season_air_yards_share": 0.1217,
-      "recent_air_yards_share": 0.1217,
-      "season_snap_share": 0.93,
-      "recent_snap_share": 0.93
+      "season_target_share": 0.2029,
+      "recent_target_share": 0.2029,
+      "season_air_yards_share": 0.0197,
+      "recent_air_yards_share": 0.0197,
+      "season_snap_share": 0.91,
+      "recent_snap_share": 0.91
     },
     {
       "gsis_id": "00-0040129",
@@ -3598,10 +4131,10 @@
       "name": "Emeka Egbuka",
       "position": "WR",
       "team": "TB",
-      "season_target_share": 0.2222,
-      "recent_target_share": 0.2222,
-      "season_air_yards_share": 0.6364,
-      "recent_air_yards_share": 0.6364,
+      "season_target_share": 0.1869,
+      "recent_target_share": 0.1869,
+      "season_air_yards_share": 0.409,
+      "recent_air_yards_share": 0.409,
       "season_snap_share": 0.86,
       "recent_snap_share": 0.86
     },
@@ -3611,12 +4144,12 @@
       "name": "Kyle Williams",
       "position": "WR",
       "team": "NE",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.17,
-      "recent_snap_share": 0.17
+      "season_target_share": 0.0476,
+      "recent_target_share": 0.0476,
+      "season_air_yards_share": 0.0596,
+      "recent_air_yards_share": 0.0596,
+      "season_snap_share": 0.185,
+      "recent_snap_share": 0.185
     },
     {
       "gsis_id": "00-0040134",
@@ -3624,12 +4157,12 @@
       "name": "Pat Bryant",
       "position": "WR",
       "team": "DEN",
-      "season_target_share": 0.2222,
-      "recent_target_share": 0.2222,
-      "season_air_yards_share": 0.2404,
-      "recent_air_yards_share": 0.2404,
-      "season_snap_share": 0.59,
-      "recent_snap_share": 0.59
+      "season_target_share": 0.1284,
+      "recent_target_share": 0.1284,
+      "season_air_yards_share": 0.1295,
+      "recent_air_yards_share": 0.1295,
+      "season_snap_share": 0.625,
+      "recent_snap_share": 0.625
     },
     {
       "gsis_id": "00-0040138",
@@ -3637,12 +4170,12 @@
       "name": "Jaylin Noel",
       "position": "WR",
       "team": "HOU",
-      "season_target_share": 0.0541,
-      "recent_target_share": 0.0541,
-      "season_air_yards_share": 0.0881,
-      "recent_air_yards_share": 0.0881,
-      "season_snap_share": 0.3,
-      "recent_snap_share": 0.3
+      "season_target_share": 0.077,
+      "recent_target_share": 0.077,
+      "season_air_yards_share": 0.0866,
+      "recent_air_yards_share": 0.0866,
+      "season_snap_share": 0.45,
+      "recent_snap_share": 0.45
     },
     {
       "gsis_id": "00-0040142",
@@ -3654,8 +4187,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.0,
-      "recent_snap_share": 0.0
+      "season_snap_share": 0.135,
+      "recent_snap_share": 0.135
     },
     {
       "gsis_id": "00-0040162",
@@ -3676,12 +4209,12 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "team": "WAS",
-      "season_target_share": 0.0345,
-      "recent_target_share": 0.0345,
-      "season_air_yards_share": 0.0156,
-      "recent_air_yards_share": 0.0156,
-      "season_snap_share": 0.26,
-      "recent_snap_share": 0.26
+      "season_target_share": 0.0172,
+      "recent_target_share": 0.0172,
+      "season_air_yards_share": 0.0078,
+      "recent_air_yards_share": 0.0078,
+      "season_snap_share": 0.205,
+      "recent_snap_share": 0.205
     },
     {
       "gsis_id": "00-0040170",
@@ -3689,12 +4222,25 @@
       "name": "Elic Ayomanor",
       "position": "WR",
       "team": "TEN",
-      "season_target_share": 0.1071,
-      "recent_target_share": 0.1071,
-      "season_air_yards_share": 0.25,
-      "recent_air_yards_share": 0.25,
-      "season_snap_share": 0.52,
-      "recent_snap_share": 0.52
+      "season_target_share": 0.1418,
+      "recent_target_share": 0.1418,
+      "season_air_yards_share": 0.271,
+      "recent_air_yards_share": 0.271,
+      "season_snap_share": 0.525,
+      "recent_snap_share": 0.525
+    },
+    {
+      "gsis_id": "00-0040177",
+      "sleeper_id": "12467",
+      "name": "Jordan James",
+      "position": "RB",
+      "team": "SF",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.15,
+      "recent_snap_share": 0.15
     },
     {
       "gsis_id": "00-0040187",
@@ -3702,12 +4248,12 @@
       "name": "Mitchell Evans",
       "position": "TE",
       "team": "CAR",
-      "season_target_share": 0.0588,
-      "recent_target_share": 0.0588,
-      "season_air_yards_share": 0.0268,
-      "recent_air_yards_share": 0.0268,
-      "season_snap_share": 0.4,
-      "recent_snap_share": 0.4
+      "season_target_share": 0.045,
+      "recent_target_share": 0.045,
+      "season_air_yards_share": 0.0117,
+      "recent_air_yards_share": 0.0117,
+      "season_snap_share": 0.49,
+      "recent_snap_share": 0.49
     },
     {
       "gsis_id": "00-0040189",
@@ -3715,12 +4261,25 @@
       "name": "Oronde Gadsden II",
       "position": "TE",
       "team": "LAC",
-      "season_target_share": 0.0741,
-      "recent_target_share": 0.0741,
-      "season_air_yards_share": 0.0256,
-      "recent_air_yards_share": 0.0256,
-      "season_snap_share": 0.18,
-      "recent_snap_share": 0.18
+      "season_target_share": 0.0755,
+      "recent_target_share": 0.0755,
+      "season_air_yards_share": 0.0473,
+      "recent_air_yards_share": 0.0473,
+      "season_snap_share": 0.31,
+      "recent_snap_share": 0.31
+    },
+    {
+      "gsis_id": "00-0040198",
+      "sleeper_id": "12495",
+      "name": "Ollie Gordon II",
+      "position": "RB",
+      "team": "MIA",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.19,
+      "recent_snap_share": 0.19
     },
     {
       "gsis_id": "00-0040208",
@@ -3754,12 +4313,12 @@
       "name": "Kyle Monangai",
       "position": "RB",
       "team": "CHI",
-      "season_target_share": 0.0769,
-      "recent_target_share": 0.0769,
-      "season_air_yards_share": 0.0319,
-      "recent_air_yards_share": 0.0319,
-      "season_snap_share": 0.43,
-      "recent_snap_share": 0.43
+      "season_target_share": 0.0718,
+      "recent_target_share": 0.0718,
+      "season_air_yards_share": 0.019,
+      "recent_air_yards_share": 0.019,
+      "season_snap_share": 0.385,
+      "recent_snap_share": 0.385
     },
     {
       "gsis_id": "00-0040237",
@@ -3767,12 +4326,25 @@
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
-      "season_target_share": 0.037,
-      "recent_target_share": 0.037,
-      "season_air_yards_share": 0.0682,
-      "recent_air_yards_share": 0.0682,
-      "season_snap_share": 0.23,
-      "recent_snap_share": 0.23
+      "season_target_share": 0.0791,
+      "recent_target_share": 0.0791,
+      "season_air_yards_share": 0.2181,
+      "recent_air_yards_share": 0.2181,
+      "season_snap_share": 0.26,
+      "recent_snap_share": 0.26
+    },
+    {
+      "gsis_id": "00-0040238",
+      "sleeper_id": "12544",
+      "name": "LeQuint Allen Jr.",
+      "position": "RB",
+      "team": "JAX",
+      "season_target_share": 0.0357,
+      "recent_target_share": 0.0357,
+      "season_air_yards_share": 0.0138,
+      "recent_air_yards_share": 0.0138,
+      "season_snap_share": 0.15,
+      "recent_snap_share": 0.15
     },
     {
       "gsis_id": "00-0040242",
@@ -3780,12 +4352,12 @@
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "team": "WAS",
-      "season_target_share": 0.0345,
-      "recent_target_share": 0.0345,
-      "season_air_yards_share": -0.0273,
-      "recent_air_yards_share": -0.0273,
-      "season_snap_share": 0.49,
-      "recent_snap_share": 0.49
+      "season_target_share": 0.0319,
+      "recent_target_share": 0.0319,
+      "season_air_yards_share": -0.0151,
+      "recent_air_yards_share": -0.0151,
+      "season_snap_share": 0.43,
+      "recent_snap_share": 0.43
     },
     {
       "gsis_id": "00-0040277",
@@ -3810,8 +4382,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.07,
-      "recent_snap_share": 0.07
+      "season_snap_share": 0.075,
+      "recent_snap_share": 0.075
     },
     {
       "gsis_id": "00-0040429",
@@ -3832,12 +4404,12 @@
       "name": "Raheim Sanders",
       "position": "RB",
       "team": "CLE",
-      "season_target_share": 0.1364,
-      "recent_target_share": 0.1364,
-      "season_air_yards_share": -0.0263,
-      "recent_air_yards_share": -0.0263,
-      "season_snap_share": 0.35,
-      "recent_snap_share": 0.35
+      "season_target_share": 0.0848,
+      "recent_target_share": 0.0848,
+      "season_air_yards_share": -0.0317,
+      "recent_air_yards_share": -0.0317,
+      "season_snap_share": 0.27,
+      "recent_snap_share": 0.27
     },
     {
       "gsis_id": "00-0040506",
@@ -3845,12 +4417,12 @@
       "name": "Myles Price",
       "position": "WR",
       "team": "MIN",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.05,
-      "recent_snap_share": 0.05
+      "season_target_share": 0.0263,
+      "recent_target_share": 0.0263,
+      "season_air_yards_share": 0.0062,
+      "recent_air_yards_share": 0.0062,
+      "season_snap_share": 0.275,
+      "recent_snap_share": 0.275
     },
     {
       "gsis_id": "00-0040556",
@@ -3862,8 +4434,21 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.11,
-      "recent_snap_share": 0.11
+      "season_snap_share": 0.09,
+      "recent_snap_share": 0.09
+    },
+    {
+      "gsis_id": "00-0040563",
+      "sleeper_id": "12542",
+      "name": "Efton Chism III",
+      "position": "WR",
+      "team": "NE",
+      "season_target_share": 0.0476,
+      "recent_target_share": 0.0476,
+      "season_air_yards_share": -0.0104,
+      "recent_air_yards_share": -0.0104,
+      "season_snap_share": 0.18,
+      "recent_snap_share": 0.18
     },
     {
       "gsis_id": "00-0040568",
@@ -3884,12 +4469,12 @@
       "name": "Arian Smith",
       "position": "WR",
       "team": "NYJ",
-      "season_target_share": 0.0435,
-      "recent_target_share": 0.0435,
-      "season_air_yards_share": 0.0256,
-      "recent_air_yards_share": 0.0256,
-      "season_snap_share": 0.03,
-      "recent_snap_share": 0.03
+      "season_target_share": 0.0217,
+      "recent_target_share": 0.0217,
+      "season_air_yards_share": 0.0128,
+      "recent_air_yards_share": 0.0128,
+      "season_snap_share": 0.02,
+      "recent_snap_share": 0.02
     },
     {
       "gsis_id": "00-0040583",
@@ -3897,12 +4482,12 @@
       "name": "Woody Marks",
       "position": "RB",
       "team": "HOU",
-      "season_target_share": 0.027,
-      "recent_target_share": 0.027,
-      "season_air_yards_share": -0.0068,
-      "recent_air_yards_share": -0.0068,
-      "season_snap_share": 0.51,
-      "recent_snap_share": 0.51
+      "season_target_share": 0.0735,
+      "recent_target_share": 0.0735,
+      "season_air_yards_share": 0.0086,
+      "recent_air_yards_share": 0.0086,
+      "season_snap_share": 0.495,
+      "recent_snap_share": 0.495
     },
     {
       "gsis_id": "00-0040584",
@@ -3910,12 +4495,12 @@
       "name": "Gunnar Helm",
       "position": "TE",
       "team": "TEN",
-      "season_target_share": 0.1786,
-      "recent_target_share": 0.1786,
-      "season_air_yards_share": 0.1037,
-      "recent_air_yards_share": 0.1037,
-      "season_snap_share": 0.76,
-      "recent_snap_share": 0.76
+      "season_target_share": 0.1481,
+      "recent_target_share": 0.1481,
+      "season_air_yards_share": 0.0474,
+      "recent_air_yards_share": 0.0474,
+      "season_snap_share": 0.815,
+      "recent_snap_share": 0.815
     },
     {
       "gsis_id": "00-0040590",
@@ -3923,12 +4508,12 @@
       "name": "Konata Mumpfield",
       "position": "WR",
       "team": "LA",
-      "season_target_share": 0.037,
-      "recent_target_share": 0.037,
-      "season_air_yards_share": 0.0502,
-      "recent_air_yards_share": 0.0502,
-      "season_snap_share": 0.26,
-      "recent_snap_share": 0.26
+      "season_target_share": 0.0519,
+      "recent_target_share": 0.0519,
+      "season_air_yards_share": 0.0598,
+      "recent_air_yards_share": 0.0598,
+      "season_snap_share": 0.475,
+      "recent_snap_share": 0.475
     },
     {
       "gsis_id": "00-0040621",
@@ -3949,12 +4534,12 @@
       "name": "Jalen Royals",
       "position": "WR",
       "team": "KC",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.0,
-      "recent_snap_share": 0.0
+      "season_target_share": 0.0233,
+      "recent_target_share": 0.0233,
+      "season_air_yards_share": 0.002,
+      "recent_air_yards_share": 0.002,
+      "season_snap_share": 0.075,
+      "recent_snap_share": 0.075
     },
     {
       "gsis_id": "00-0040663",
@@ -3962,12 +4547,12 @@
       "name": "Harold Fannin Jr.",
       "position": "TE",
       "team": "CLE",
-      "season_target_share": 0.1364,
-      "recent_target_share": 0.1364,
-      "season_air_yards_share": 0.0439,
-      "recent_air_yards_share": 0.0439,
-      "season_snap_share": 0.82,
-      "recent_snap_share": 0.82
+      "season_target_share": 0.1682,
+      "recent_target_share": 0.1682,
+      "season_air_yards_share": 0.133,
+      "recent_air_yards_share": 0.133,
+      "season_snap_share": 0.84,
+      "recent_snap_share": 0.84
     },
     {
       "gsis_id": "00-0040666",
@@ -3975,12 +4560,12 @@
       "name": "Omarion Hampton",
       "position": "RB",
       "team": "LAC",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.58,
-      "recent_snap_share": 0.58
+      "season_target_share": 0.0385,
+      "recent_target_share": 0.0385,
+      "season_air_yards_share": -0.0153,
+      "recent_air_yards_share": -0.0153,
+      "season_snap_share": 0.605,
+      "recent_snap_share": 0.605
     },
     {
       "gsis_id": "00-0040667",
@@ -3988,12 +4573,12 @@
       "name": "Matthew Golden",
       "position": "WR",
       "team": "GB",
-      "season_target_share": 0.3,
-      "recent_target_share": 0.3,
-      "season_air_yards_share": 0.3018,
-      "recent_air_yards_share": 0.3018,
-      "season_snap_share": 0.82,
-      "recent_snap_share": 0.82
+      "season_target_share": 0.2534,
+      "recent_target_share": 0.2534,
+      "season_air_yards_share": 0.3361,
+      "recent_air_yards_share": 0.3361,
+      "season_snap_share": 0.84,
+      "recent_snap_share": 0.84
     },
     {
       "gsis_id": "00-0040669",
@@ -4001,12 +4586,12 @@
       "name": "Isaac TeSlaa",
       "position": "WR",
       "team": "DET",
-      "season_target_share": 0.0256,
-      "recent_target_share": 0.0256,
-      "season_air_yards_share": 0.0145,
-      "recent_air_yards_share": 0.0145,
-      "season_snap_share": 0.68,
-      "recent_snap_share": 0.68
+      "season_target_share": 0.0786,
+      "recent_target_share": 0.0786,
+      "season_air_yards_share": 0.1274,
+      "recent_air_yards_share": 0.1274,
+      "season_snap_share": 0.715,
+      "recent_snap_share": 0.715
     },
     {
       "gsis_id": "00-0040676",
@@ -4031,8 +4616,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 1.0,
-      "recent_snap_share": 1.0
+      "season_snap_share": 0.56,
+      "recent_snap_share": 0.56
     },
     {
       "gsis_id": "00-0040705",
@@ -4040,12 +4625,12 @@
       "name": "Chimere Dike",
       "position": "WR",
       "team": "TEN",
-      "season_target_share": 0.0357,
-      "recent_target_share": 0.0357,
-      "season_air_yards_share": 0.0183,
-      "recent_air_yards_share": 0.0183,
-      "season_snap_share": 0.08,
-      "recent_snap_share": 0.08
+      "season_target_share": 0.0179,
+      "recent_target_share": 0.0179,
+      "season_air_yards_share": 0.0091,
+      "recent_air_yards_share": 0.0091,
+      "season_snap_share": 0.06,
+      "recent_snap_share": 0.06
     },
     {
       "gsis_id": "00-0040715",
@@ -4053,12 +4638,12 @@
       "name": "Cam Skattebo",
       "position": "RB",
       "team": "NYG",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.61,
-      "recent_snap_share": 0.61
+      "season_target_share": 0.0625,
+      "recent_target_share": 0.0625,
+      "season_air_yards_share": -0.0059,
+      "recent_air_yards_share": -0.0059,
+      "season_snap_share": 0.6,
+      "recent_snap_share": 0.6
     },
     {
       "gsis_id": "00-0040719",
@@ -4066,12 +4651,12 @@
       "name": "Bhayshul Tuten",
       "position": "RB",
       "team": "JAX",
-      "season_target_share": 0.0476,
-      "recent_target_share": 0.0476,
-      "season_air_yards_share": -0.0227,
-      "recent_air_yards_share": -0.0227,
-      "season_snap_share": 0.49,
-      "recent_snap_share": 0.49
+      "season_target_share": 0.0595,
+      "recent_target_share": 0.0595,
+      "season_air_yards_share": -0.0252,
+      "recent_air_yards_share": -0.0252,
+      "season_snap_share": 0.5,
+      "recent_snap_share": 0.5
     },
     {
       "gsis_id": "00-0040727",
@@ -4079,12 +4664,12 @@
       "name": "Tre Harris",
       "position": "WR",
       "team": "LAC",
-      "season_target_share": 0.2222,
-      "recent_target_share": 0.2222,
-      "season_air_yards_share": 0.1722,
-      "recent_air_yards_share": 0.1722,
-      "season_snap_share": 0.75,
-      "recent_snap_share": 0.75
+      "season_target_share": 0.1688,
+      "recent_target_share": 0.1688,
+      "season_air_yards_share": 0.1934,
+      "recent_air_yards_share": 0.1934,
+      "season_snap_share": 0.785,
+      "recent_snap_share": 0.785
     },
     {
       "gsis_id": "00-0040729",
@@ -4092,12 +4677,12 @@
       "name": "Jack Bech",
       "position": "WR",
       "team": "LV",
-      "season_target_share": 0.1379,
-      "recent_target_share": 0.1379,
-      "season_air_yards_share": 0.1416,
-      "recent_air_yards_share": 0.1416,
-      "season_snap_share": 0.4,
-      "recent_snap_share": 0.4
+      "season_target_share": 0.1034,
+      "recent_target_share": 0.1034,
+      "season_air_yards_share": 0.1026,
+      "recent_air_yards_share": 0.1026,
+      "season_snap_share": 0.47,
+      "recent_snap_share": 0.47
     },
     {
       "gsis_id": "00-0040730",
@@ -4113,17 +4698,30 @@
       "recent_snap_share": 0.51
     },
     {
+      "gsis_id": "00-0040734",
+      "sleeper_id": "12529",
+      "name": "TreVeyon Henderson",
+      "position": "RB",
+      "team": "NE",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.6,
+      "recent_snap_share": 0.6
+    },
+    {
       "gsis_id": "00-0040735",
       "sleeper_id": "12519",
       "name": "Luther Burden III",
       "position": "WR",
       "team": "CHI",
-      "season_target_share": 0.1923,
-      "recent_target_share": 0.1923,
-      "season_air_yards_share": 0.1277,
-      "recent_air_yards_share": 0.1277,
-      "season_snap_share": 0.73,
-      "recent_snap_share": 0.73
+      "season_target_share": 0.2128,
+      "recent_target_share": 0.2128,
+      "season_air_yards_share": 0.3275,
+      "recent_air_yards_share": 0.3275,
+      "season_snap_share": 0.65,
+      "recent_snap_share": 0.65
     },
     {
       "gsis_id": "00-0040736",
@@ -4144,12 +4742,25 @@
       "name": "Terrance Ferguson",
       "position": "TE",
       "team": "LA",
-      "season_target_share": 0.037,
-      "recent_target_share": 0.037,
-      "season_air_yards_share": 0.0927,
-      "recent_air_yards_share": 0.0927,
-      "season_snap_share": 0.51,
-      "recent_snap_share": 0.51
+      "season_target_share": 0.1685,
+      "recent_target_share": 0.1685,
+      "season_air_yards_share": 0.1279,
+      "recent_air_yards_share": 0.1279,
+      "season_snap_share": 0.545,
+      "recent_snap_share": 0.545
+    },
+    {
+      "gsis_id": "00-0040739",
+      "sleeper_id": "12521",
+      "name": "Elijah Arroyo",
+      "position": "TE",
+      "team": "SEA",
+      "season_target_share": 0.0385,
+      "recent_target_share": 0.0385,
+      "season_air_yards_share": 0.0617,
+      "recent_air_yards_share": 0.0617,
+      "season_snap_share": 0.21,
+      "recent_snap_share": 0.21
     },
     {
       "gsis_id": "00-0040743",
@@ -4165,17 +4776,30 @@
       "recent_snap_share": 1.0
     },
     {
+      "gsis_id": "00-0040782",
+      "sleeper_id": "12503",
+      "name": "Isaiah Bond",
+      "position": "WR",
+      "team": "CLE",
+      "season_target_share": 0.0333,
+      "recent_target_share": 0.0333,
+      "season_air_yards_share": 0.0648,
+      "recent_air_yards_share": 0.0648,
+      "season_snap_share": 0.07,
+      "recent_snap_share": 0.07
+    },
+    {
       "gsis_id": "00-0040784",
       "sleeper_id": "12512",
       "name": "Quinshon Judkins",
       "position": "RB",
       "team": "CLE",
-      "season_target_share": 0.0909,
-      "recent_target_share": 0.0909,
-      "season_air_yards_share": 0.0044,
-      "recent_air_yards_share": 0.0044,
-      "season_snap_share": 0.65,
-      "recent_snap_share": 0.65
+      "season_target_share": 0.1288,
+      "recent_target_share": 0.1288,
+      "season_air_yards_share": -0.0348,
+      "recent_air_yards_share": -0.0348,
+      "season_snap_share": 0.66,
+      "recent_snap_share": 0.66
     },
     {
       "gsis_id": "00-0040785",
@@ -4183,12 +4807,12 @@
       "name": "Dohnte Meyers",
       "position": "WR",
       "team": "CIN",
-      "season_target_share": 0.0294,
-      "recent_target_share": 0.0294,
-      "season_air_yards_share": 0.0088,
-      "recent_air_yards_share": 0.0088,
-      "season_snap_share": 0.16,
-      "recent_snap_share": 0.16
+      "season_target_share": 0.0308,
+      "recent_target_share": 0.0308,
+      "season_air_yards_share": -0.0071,
+      "recent_air_yards_share": -0.0071,
+      "season_snap_share": 0.17,
+      "recent_snap_share": 0.17
     },
     {
       "gsis_id": "00-0040867",
@@ -4196,12 +4820,12 @@
       "name": "Makai Lemon",
       "position": "WR",
       "team": "PHI",
-      "season_target_share": 0.1818,
-      "recent_target_share": 0.1818,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.64,
-      "recent_snap_share": 0.64
+      "season_target_share": 0.1056,
+      "recent_target_share": 0.1056,
+      "season_air_yards_share": 0.0215,
+      "recent_air_yards_share": 0.0215,
+      "season_snap_share": 0.635,
+      "recent_snap_share": 0.635
     },
     {
       "gsis_id": "00-0040870",
@@ -4218,16 +4842,16 @@
     },
     {
       "gsis_id": "00-0040878",
-      "sleeper_id": null,
+      "sleeper_id": "13305",
       "name": "Mike Washington Jr.",
       "position": "RB",
       "team": "LV",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": null,
-      "recent_snap_share": null
+      "season_target_share": 0.0172,
+      "recent_target_share": 0.0172,
+      "season_air_yards_share": 0.0177,
+      "recent_air_yards_share": 0.0177,
+      "season_snap_share": 0.19,
+      "recent_snap_share": 0.19
     },
     {
       "gsis_id": "00-0040879",
@@ -4241,6 +4865,19 @@
       "recent_air_yards_share": 0.0037,
       "season_snap_share": 0.34,
       "recent_snap_share": 0.34
+    },
+    {
+      "gsis_id": "00-0040886",
+      "sleeper_id": "13288",
+      "name": "Nicholas Singleton",
+      "position": "RB",
+      "team": "TEN",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.11,
+      "recent_snap_share": 0.11
     },
     {
       "gsis_id": "00-0040890",
@@ -4261,12 +4898,25 @@
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
-      "season_target_share": 0.069,
-      "recent_target_share": 0.069,
-      "season_air_yards_share": 0.1372,
-      "recent_air_yards_share": 0.1372,
-      "season_snap_share": 0.1,
-      "recent_snap_share": 0.1
+      "season_target_share": 0.0517,
+      "recent_target_share": 0.0517,
+      "season_air_yards_share": 0.1163,
+      "recent_air_yards_share": 0.1163,
+      "season_snap_share": 0.115,
+      "recent_snap_share": 0.115
+    },
+    {
+      "gsis_id": "00-0040948",
+      "sleeper_id": "13770",
+      "name": "J. Michael Sturdivant",
+      "position": "WR",
+      "team": "GB",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.15,
+      "recent_snap_share": 0.15
     },
     {
       "gsis_id": "00-0041013",
@@ -4274,12 +4924,12 @@
       "name": "Emmett Johnson",
       "position": "RB",
       "team": "KC",
-      "season_target_share": 0.08,
-      "recent_target_share": 0.08,
-      "season_air_yards_share": -0.0684,
-      "recent_air_yards_share": -0.0684,
-      "season_snap_share": 0.36,
-      "recent_snap_share": 0.36
+      "season_target_share": 0.0633,
+      "recent_target_share": 0.0633,
+      "season_air_yards_share": -0.0423,
+      "recent_air_yards_share": -0.0423,
+      "season_snap_share": 0.27,
+      "recent_snap_share": 0.27
     },
     {
       "gsis_id": "00-0041027",
@@ -4287,12 +4937,12 @@
       "name": "Jeremiyah Love",
       "position": "RB",
       "team": "ARI",
-      "season_target_share": 0.1081,
-      "recent_target_share": 0.1081,
-      "season_air_yards_share": 0.0177,
-      "recent_air_yards_share": 0.0177,
-      "season_snap_share": 0.43,
-      "recent_snap_share": 0.43
+      "season_target_share": 0.1117,
+      "recent_target_share": 0.1117,
+      "season_air_yards_share": 0.0088,
+      "recent_air_yards_share": 0.0088,
+      "season_snap_share": 0.415,
+      "recent_snap_share": 0.415
     },
     {
       "gsis_id": "00-0041032",
@@ -4300,12 +4950,12 @@
       "name": "Kenyon Sadiq",
       "position": "TE",
       "team": "NYJ",
-      "season_target_share": 0.1304,
-      "recent_target_share": 0.1304,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.42,
-      "recent_snap_share": 0.42
+      "season_target_share": 0.1069,
+      "recent_target_share": 0.1069,
+      "season_air_yards_share": 0.0157,
+      "recent_air_yards_share": 0.0157,
+      "season_snap_share": 0.39,
+      "recent_snap_share": 0.39
     },
     {
       "gsis_id": "00-0041037",
@@ -4313,12 +4963,12 @@
       "name": "Denzel Boston",
       "position": "WR",
       "team": "CLE",
-      "season_target_share": 0.1818,
-      "recent_target_share": 0.1818,
-      "season_air_yards_share": 0.5,
-      "recent_air_yards_share": 0.5,
-      "season_snap_share": 0.92,
-      "recent_snap_share": 0.92
+      "season_target_share": 0.2076,
+      "recent_target_share": 0.2076,
+      "season_air_yards_share": 0.5278,
+      "recent_air_yards_share": 0.5278,
+      "season_snap_share": 0.925,
+      "recent_snap_share": 0.925
     },
     {
       "gsis_id": "00-0041040",
@@ -4326,12 +4976,25 @@
       "name": "Antonio Williams",
       "position": "WR",
       "team": "WAS",
-      "season_target_share": 0.1379,
-      "recent_target_share": 0.1379,
-      "season_air_yards_share": 0.2148,
-      "recent_air_yards_share": 0.2148,
-      "season_snap_share": 0.37,
-      "recent_snap_share": 0.37
+      "season_target_share": 0.1131,
+      "recent_target_share": 0.1131,
+      "season_air_yards_share": 0.1296,
+      "recent_air_yards_share": 0.1296,
+      "season_snap_share": 0.43,
+      "recent_snap_share": 0.43
+    },
+    {
+      "gsis_id": "00-0041041",
+      "sleeper_id": "13319",
+      "name": "Oscar Delp",
+      "position": "TE",
+      "team": "NO",
+      "season_target_share": 0.0312,
+      "recent_target_share": 0.0312,
+      "season_air_yards_share": 0.0365,
+      "recent_air_yards_share": 0.0365,
+      "season_snap_share": 0.13,
+      "recent_snap_share": 0.13
     },
     {
       "gsis_id": "00-0041042",
@@ -4339,12 +5002,12 @@
       "name": "Malachi Fields",
       "position": "WR",
       "team": "NYG",
-      "season_target_share": 0.1379,
-      "recent_target_share": 0.1379,
-      "season_air_yards_share": 0.2898,
-      "recent_air_yards_share": 0.2898,
-      "season_snap_share": 0.72,
-      "recent_snap_share": 0.72
+      "season_target_share": 0.1627,
+      "recent_target_share": 0.1627,
+      "season_air_yards_share": 0.337,
+      "recent_air_yards_share": 0.337,
+      "season_snap_share": 0.765,
+      "recent_snap_share": 0.765
     },
     {
       "gsis_id": "00-0041044",
@@ -4352,12 +5015,12 @@
       "name": "Zachariah Branch",
       "position": "WR",
       "team": "ATL",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
-      "season_air_yards_share": 0.0,
-      "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.3,
-      "recent_snap_share": 0.3
+      "season_target_share": 0.0323,
+      "recent_target_share": 0.0323,
+      "season_air_yards_share": -0.0238,
+      "recent_air_yards_share": -0.0238,
+      "season_snap_share": 0.25,
+      "recent_snap_share": 0.25
     },
     {
       "gsis_id": "00-0041048",
@@ -4365,12 +5028,25 @@
       "name": "Ted Hurst III",
       "position": "WR",
       "team": "TB",
-      "season_target_share": 0.1111,
-      "recent_target_share": 0.1111,
-      "season_air_yards_share": 0.2576,
-      "recent_air_yards_share": 0.2576,
-      "season_snap_share": 0.75,
-      "recent_snap_share": 0.75
+      "season_target_share": 0.1616,
+      "recent_target_share": 0.1616,
+      "season_air_yards_share": 0.3043,
+      "recent_air_yards_share": 0.3043,
+      "season_snap_share": 0.745,
+      "recent_snap_share": 0.745
+    },
+    {
+      "gsis_id": "00-0041051",
+      "sleeper_id": "13411",
+      "name": "Zavion Thomas",
+      "position": "WR",
+      "team": "CHI",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.03,
+      "recent_snap_share": 0.03
     },
     {
       "gsis_id": "00-0041052",
@@ -4378,12 +5054,12 @@
       "name": "Kaelon Black",
       "position": "RB",
       "team": "SF",
-      "season_target_share": 0.0294,
-      "recent_target_share": 0.0294,
-      "season_air_yards_share": -0.0336,
-      "recent_air_yards_share": -0.0336,
-      "season_snap_share": 0.43,
-      "recent_snap_share": 0.43
+      "season_target_share": 0.0147,
+      "recent_target_share": 0.0147,
+      "season_air_yards_share": -0.0168,
+      "recent_air_yards_share": -0.0168,
+      "season_snap_share": 0.38,
+      "recent_snap_share": 0.38
     },
     {
       "gsis_id": "00-0041067",
@@ -4391,12 +5067,25 @@
       "name": "Bryce Lance",
       "position": "WR",
       "team": "NO",
-      "season_target_share": 0.0769,
-      "recent_target_share": 0.0769,
-      "season_air_yards_share": 0.086,
-      "recent_air_yards_share": 0.086,
-      "season_snap_share": 0.69,
-      "recent_snap_share": 0.69
+      "season_target_share": 0.0541,
+      "recent_target_share": 0.0541,
+      "season_air_yards_share": 0.0638,
+      "recent_air_yards_share": 0.0638,
+      "season_snap_share": 0.74,
+      "recent_snap_share": 0.74
+    },
+    {
+      "gsis_id": "00-0041069",
+      "sleeper_id": "13477",
+      "name": "Colbie Young",
+      "position": "WR",
+      "team": "CIN",
+      "season_target_share": 0.0323,
+      "recent_target_share": 0.0323,
+      "season_air_yards_share": 0.0347,
+      "recent_air_yards_share": 0.0347,
+      "season_snap_share": 0.17,
+      "recent_snap_share": 0.17
     },
     {
       "gsis_id": "00-0041094",
@@ -4421,8 +5110,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.1,
-      "recent_snap_share": 0.1
+      "season_snap_share": 0.09,
+      "recent_snap_share": 0.09
     },
     {
       "gsis_id": "00-0041099",
@@ -4434,8 +5123,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.08,
-      "recent_snap_share": 0.08
+      "season_snap_share": 0.055,
+      "recent_snap_share": 0.055
     },
     {
       "gsis_id": "00-0041100",
@@ -4443,12 +5132,25 @@
       "name": "Josh Cameron",
       "position": "WR",
       "team": "JAX",
-      "season_target_share": 0.0952,
-      "recent_target_share": 0.0952,
-      "season_air_yards_share": 0.0818,
-      "recent_air_yards_share": 0.0818,
-      "season_snap_share": 0.33,
-      "recent_snap_share": 0.33
+      "season_target_share": 0.0476,
+      "recent_target_share": 0.0476,
+      "season_air_yards_share": 0.0409,
+      "recent_air_yards_share": 0.0409,
+      "season_snap_share": 0.25,
+      "recent_snap_share": 0.25
+    },
+    {
+      "gsis_id": "00-0041104",
+      "sleeper_id": "13347",
+      "name": "Demond Claiborne",
+      "position": "RB",
+      "team": "MIN",
+      "season_target_share": 0.0526,
+      "recent_target_share": 0.0526,
+      "season_air_yards_share": -0.0432,
+      "recent_air_yards_share": -0.0432,
+      "season_snap_share": 0.04,
+      "recent_snap_share": 0.04
     },
     {
       "gsis_id": "00-0041125",
@@ -4456,12 +5158,12 @@
       "name": "Seth McGowan",
       "position": "RB",
       "team": "IND",
-      "season_target_share": 0.0345,
-      "recent_target_share": 0.0345,
-      "season_air_yards_share": -0.0106,
-      "recent_air_yards_share": -0.0106,
-      "season_snap_share": 0.11,
-      "recent_snap_share": 0.11
+      "season_target_share": 0.0172,
+      "recent_target_share": 0.0172,
+      "season_air_yards_share": -0.0053,
+      "recent_air_yards_share": -0.0053,
+      "season_snap_share": 0.085,
+      "recent_snap_share": 0.085
     },
     {
       "gsis_id": "00-0041131",
@@ -4477,17 +5179,43 @@
       "recent_snap_share": 0.0
     },
     {
+      "gsis_id": "00-0041132",
+      "sleeper_id": "13333",
+      "name": "Deion Burks",
+      "position": "WR",
+      "team": "IND",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.05,
+      "recent_snap_share": 0.05
+    },
+    {
+      "gsis_id": "00-0041194",
+      "sleeper_id": null,
+      "name": "Jack Strand",
+      "position": "QB",
+      "team": "ATL",
+      "season_target_share": 0.0,
+      "recent_target_share": 0.0,
+      "season_air_yards_share": 0.0,
+      "recent_air_yards_share": 0.0,
+      "season_snap_share": 0.42,
+      "recent_snap_share": 0.42
+    },
+    {
       "gsis_id": "00-0041326",
       "sleeper_id": "13277",
       "name": "CJ Donaldson",
       "position": "RB",
       "team": "NO",
-      "season_target_share": 0.0385,
-      "recent_target_share": 0.0385,
-      "season_air_yards_share": 0.0108,
-      "recent_air_yards_share": 0.0108,
-      "season_snap_share": 0.17,
-      "recent_snap_share": 0.17
+      "season_target_share": 0.0192,
+      "recent_target_share": 0.0192,
+      "season_air_yards_share": 0.0054,
+      "recent_air_yards_share": 0.0054,
+      "season_snap_share": 0.23,
+      "recent_snap_share": 0.23
     },
     {
       "gsis_id": "00-0041395",
@@ -4495,12 +5223,12 @@
       "name": "Eli Raridon",
       "position": "TE",
       "team": "NE",
-      "season_target_share": 0.0323,
-      "recent_target_share": 0.0323,
-      "season_air_yards_share": 0.0098,
-      "recent_air_yards_share": 0.0098,
-      "season_snap_share": 0.54,
-      "recent_snap_share": 0.54
+      "season_target_share": 0.0399,
+      "recent_target_share": 0.0399,
+      "season_air_yards_share": 0.0696,
+      "recent_air_yards_share": 0.0696,
+      "season_snap_share": 0.37,
+      "recent_snap_share": 0.37
     },
     {
       "gsis_id": "00-0041397",
@@ -4529,17 +5257,30 @@
       "recent_snap_share": 0.12
     },
     {
+      "gsis_id": "00-0041436",
+      "sleeper_id": null,
+      "name": "DJ Herman",
+      "position": "RB",
+      "team": "MIA",
+      "season_target_share": 0.1304,
+      "recent_target_share": 0.1304,
+      "season_air_yards_share": 0.213,
+      "recent_air_yards_share": 0.213,
+      "season_snap_share": null,
+      "recent_snap_share": null
+    },
+    {
       "gsis_id": "00-0041438",
       "sleeper_id": "13279",
       "name": "Carnell Tate",
       "position": "WR",
       "team": "TEN",
-      "season_target_share": 0.2143,
-      "recent_target_share": 0.2143,
-      "season_air_yards_share": 0.4085,
-      "recent_air_yards_share": 0.4085,
-      "season_snap_share": 0.88,
-      "recent_snap_share": 0.88
+      "season_target_share": 0.2542,
+      "recent_target_share": 0.2542,
+      "season_air_yards_share": 0.4255,
+      "recent_air_yards_share": 0.4255,
+      "season_snap_share": 0.815,
+      "recent_snap_share": 0.815
     },
     {
       "gsis_id": "00-0041472",
@@ -4555,6 +5296,19 @@
       "recent_snap_share": 0.11
     },
     {
+      "gsis_id": "00-0041489",
+      "sleeper_id": "13274",
+      "name": "Germie Bernard",
+      "position": "WR",
+      "team": "PIT",
+      "season_target_share": 0.2162,
+      "recent_target_share": 0.2162,
+      "season_air_yards_share": 0.3571,
+      "recent_air_yards_share": 0.3571,
+      "season_snap_share": 0.79,
+      "recent_snap_share": 0.79
+    },
+    {
       "gsis_id": "00-0041490",
       "sleeper_id": "13423",
       "name": "Eli Heidenreich",
@@ -4564,8 +5318,8 @@
       "recent_target_share": 0.0,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.04,
-      "recent_snap_share": 0.04
+      "season_snap_share": 0.02,
+      "recent_snap_share": 0.02
     },
     {
       "gsis_id": "00-0041496",
@@ -4573,12 +5327,12 @@
       "name": "Jonah Coleman",
       "position": "RB",
       "team": "DEN",
-      "season_target_share": 0.0,
-      "recent_target_share": 0.0,
+      "season_target_share": 0.0517,
+      "recent_target_share": 0.0517,
       "season_air_yards_share": 0.0,
       "recent_air_yards_share": 0.0,
-      "season_snap_share": 0.06,
-      "recent_snap_share": 0.06
+      "season_snap_share": 0.23,
+      "recent_snap_share": 0.23
     },
     {
       "gsis_id": "00-0041503",
@@ -4612,12 +5366,12 @@
       "name": "Jadarian Price",
       "position": "RB",
       "team": "SEA",
-      "season_target_share": 0.0833,
-      "recent_target_share": 0.0833,
-      "season_air_yards_share": -0.0065,
-      "recent_air_yards_share": -0.0065,
-      "season_snap_share": 0.48,
-      "recent_snap_share": 0.48
+      "season_target_share": 0.0801,
+      "recent_target_share": 0.0801,
+      "season_air_yards_share": 0.032,
+      "recent_air_yards_share": 0.032,
+      "season_snap_share": 0.41,
+      "recent_snap_share": 0.41
     },
     {
       "gsis_id": "00-0041523",
@@ -4625,12 +5379,12 @@
       "name": "Caleb Douglas",
       "position": "WR",
       "team": "MIA",
-      "season_target_share": 0.2593,
-      "recent_target_share": 0.2593,
-      "season_air_yards_share": 0.3139,
-      "recent_air_yards_share": 0.3139,
-      "season_snap_share": 0.91,
-      "recent_snap_share": 0.91
+      "season_target_share": 0.1948,
+      "recent_target_share": 0.1948,
+      "season_air_yards_share": 0.2073,
+      "recent_air_yards_share": 0.2073,
+      "season_snap_share": 0.885,
+      "recent_snap_share": 0.885
     },
     {
       "gsis_id": "00-0041524",
@@ -4638,12 +5392,12 @@
       "name": "Will Kacmarek",
       "position": "TE",
       "team": "MIA",
-      "season_target_share": 0.037,
-      "recent_target_share": 0.037,
-      "season_air_yards_share": 0.0194,
-      "recent_air_yards_share": 0.0194,
-      "season_snap_share": 0.25,
-      "recent_snap_share": 0.25
+      "season_target_share": 0.0403,
+      "recent_target_share": 0.0403,
+      "season_air_yards_share": 0.0156,
+      "recent_air_yards_share": 0.0156,
+      "season_snap_share": 0.36,
+      "recent_snap_share": 0.36
     },
     {
       "gsis_id": "00-0041525",
@@ -4651,12 +5405,12 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "season_target_share": 0.0741,
-      "recent_target_share": 0.0741,
-      "season_air_yards_share": 0.1359,
-      "recent_air_yards_share": 0.1359,
-      "season_snap_share": 0.52,
-      "recent_snap_share": 0.52
+      "season_target_share": 0.0588,
+      "recent_target_share": 0.0588,
+      "season_air_yards_share": 0.1035,
+      "recent_air_yards_share": 0.1035,
+      "season_snap_share": 0.465,
+      "recent_snap_share": 0.465
     },
     {
       "gsis_id": "00-0041529",
@@ -4677,12 +5431,38 @@
       "name": "KC Concepcion",
       "position": "WR",
       "team": "CLE",
-      "season_target_share": 0.2273,
-      "recent_target_share": 0.2273,
-      "season_air_yards_share": 0.2763,
-      "recent_air_yards_share": 0.2763,
-      "season_snap_share": 0.69,
-      "recent_snap_share": 0.69
+      "season_target_share": 0.2136,
+      "recent_target_share": 0.2136,
+      "season_air_yards_share": 0.1937,
+      "recent_air_yards_share": 0.1937,
+      "season_snap_share": 0.675,
+      "recent_snap_share": 0.675
+    },
+    {
+      "gsis_id": "00-0041550",
+      "sleeper_id": "13380",
+      "name": "Brenen Thompson",
+      "position": "WR",
+      "team": "LAC",
+      "season_target_share": 0.1154,
+      "recent_target_share": 0.1154,
+      "season_air_yards_share": 0.1686,
+      "recent_air_yards_share": 0.1686,
+      "season_snap_share": 0.18,
+      "recent_snap_share": 0.18
+    },
+    {
+      "gsis_id": "00-0041558",
+      "sleeper_id": "13322",
+      "name": "Sam Roush",
+      "position": "TE",
+      "team": "CHI",
+      "season_target_share": 0.1,
+      "recent_target_share": 0.1,
+      "season_air_yards_share": 0.097,
+      "recent_air_yards_share": 0.097,
+      "season_snap_share": 0.27,
+      "recent_snap_share": 0.27
     }
   ]
 }
